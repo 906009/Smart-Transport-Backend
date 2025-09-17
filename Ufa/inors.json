@@ -1,0 +1,456 @@
+[
+	{
+        "st_id": "743",
+        "st_title": "Автотранспортное предприятие ОАО \"Крупнопанельное домостроение\" (АТП КПД)",
+        "st_title_en": "Avtotransportnoe predpriyatie OAO \"Krupnopanelnoe domostroenie\" (ATP KPD)",
+        "st_lat": "54.791796",
+        "st_long": "56.085197",
+		"direction": "из Инорса"
+    },
+    {
+        "st_id": "408",
+        "st_title": "Автотранспортное предприятие ОАО \"Крупнопанельное домостроение\" (АТП КПД)",
+        "st_title_en": "Avtotransportnoe predpriyatie OAO \"Krupnopanelnoe domostroenie\" (ATP KPD)",
+        "st_lat": "54.791549",
+        "st_long": "56.085283",
+		"direction": "в Инорс"
+    },
+    {
+        "st_id": "741",
+        "st_title": "Оздоровительный комплекс \"Райский берег\"",
+        "st_title_en": "Ozdorovitelnyiy kompleks \"Rayskiy bereg\"",
+        "st_lat": "54.790728",
+        "st_long": "56.09372",
+		"direction": "в Инорс"
+    },
+    {
+        "st_id": "410",
+        "st_title": "Оздоровительный комплекс \"Райский берег\"",
+        "st_title_en": "Ozdorovitelnyiy kompleks \"Rayskiy bereg\"",
+        "st_lat": "54.790869",
+        "st_long": "56.093743",
+		"direction": "из Инорса"
+    },
+    {
+        "st_id": "1328",
+        "st_title": "Торгово-сервисный комплекс \"Радуга\"",
+        "st_title_en": "Torgovo-servisnyiy kompleks \"Raduga\"",
+        "st_lat": "54.803567",
+        "st_long": "56.09771",
+		"direction": "в Инорс"
+    },
+    {
+        "st_id": "1327",
+        "st_title": "Торгово-сервисный комплекс \"Радуга\"",
+        "st_title_en": "Torgovo-servisnyiy kompleks \"Raduga\"",
+        "st_lat": "54.803635",
+        "st_long": "56.098122",
+		"direction": "из Инорса"
+    },
+    {
+        "st_id": "1357",
+        "st_title": "Магазин \"Ларес\"",
+        "st_title_en": "Magazin \"Lares\"",
+        "st_lat": "54.801715",
+        "st_long": "56.1043",
+		"direction": "в Инорс"
+    },
+    {
+        "st_id": "1356",
+        "st_title": "Магазин \"Ларес\"",
+        "st_title_en": "Magazin \"Lares\"",
+        "st_lat": "54.802025",
+        "st_long": "56.103992",
+		"direction": "из Инорса"
+    },
+    {
+        "st_id": [236,1234],
+        "st_title": "ОАО \"Стеклонит\"",
+        "st_title_en": "OAO \"Steklonit\"",
+        "st_lat": "54.798908",
+        "st_long": "56.087179",
+		"direction": "из Инорса"
+    },
+    {
+        "st_id": [880,1233],
+        "st_title": "ОАО \"Стеклонит\"",
+        "st_title_en": "OAO \"Steklonit\"",
+        "st_lat": "54.798581",
+        "st_long": "56.087227",
+		"direction": "в Инорс"
+    },
+    {
+        "st_id": [879,1236],
+        "st_title": "Торговый центр \"Радуга\"",
+        "st_title_en": "Torgovyiy tsentr \"Raduga\"",
+        "st_lat": "54.798915",
+        "st_long": "56.093348",
+		"direction": "в Инорс"
+    },
+    {
+        "st_id": [235,1235],
+        "st_title": "Торговый центр \"Радуга\"",
+        "st_title_en": "Torgovyiy tsentr \"Raduga\"",
+        "st_lat": "54.79918",
+        "st_long": "56.093339",
+		"direction": "из Инорса"
+    },
+    {
+        "st_id": [234,1237],
+        "st_title": "ОАО \"Уфимский хлеб\"",
+        "st_title_en": "OAO \"Ufimskiy hleb\"",
+        "st_lat": "54.79973",
+        "st_long": "56.104278",
+		"direction": "из Инорса"
+    },
+    {
+        "st_id": [878,1238],
+        "st_title": "ОАО \"Уфимский хлеб\"",
+        "st_title_en": "OAO \"Ufimskiy hleb\"",
+        "st_lat": "54.799547",
+        "st_long": "56.104655",
+		"direction": "в Инорс"
+    },
+    {
+        "st_id": [877,1240],
+        "st_title": "Сортопрокатный завод",
+        "st_title_en": "Sortoprokatnyiy zavod",
+        "st_lat": "54.798836",
+        "st_long": "56.1128",
+		"direction": "в Инорс"
+    },
+    {
+        "st_id": [233,1239],
+        "st_title": "Сортопрокатный завод",
+        "st_title_en": "Sortoprokatnyiy zavod",
+        "st_lat": "54.79895",
+        "st_long": "56.112837",
+		"direction": "из Инорса"
+    },
+    {
+        "st_id": [232,1241],
+        "st_title": "Индустриальное шоссе",
+        "st_title_en": "Industrialnoe shosse",
+        "st_lat": "54.797862",
+        "st_long": "56.125975",
+		"direction": "из Инорса"
+    },
+    {
+        "st_id": [876,1242],
+        "st_title": "Индустриальное шоссе",
+        "st_title_en": "Industrialnoe shosse",
+        "st_lat": "54.797497",
+        "st_long": "56.12689",
+		"direction": "в Инорс"
+    },
+    {
+        "st_id": "1222",
+        "st_title": "🚋 Стадион им. Гастелло",
+        "st_title_en": "🚋 Stadion im. Gastello",
+        "st_lat": "54.797812",
+        "st_long": "56.138034",
+		"direction": "из Черниковки"
+    },
+    {
+        "st_id": "111",
+        "st_title": "Стадион им. Гастелло",
+        "st_title_en": "Stadion im. Gastello",
+        "st_lat": "54.797365",
+        "st_long": "56.138245",
+		"direction": "в стор. ГДК"
+    },
+    {
+        "st_id": "1223",
+        "st_title": "🚋 Стадион им. Гастелло",
+        "st_title_en": "🚋 Stadion im. Gastello",
+        "st_lat": "54.798146",
+        "st_long": "56.138849",
+		"direction": "в Черниковку"
+    },
+    {
+        "st_id": "766",
+        "st_title": "Стадион им. Гастелло",
+        "st_title_en": "Stadion im. Gastello",
+        "st_lat": "54.796757",
+        "st_long": "56.138914",
+		"direction": "в Инорс"
+    },
+    {
+        "st_id": "767",
+        "st_title": "Стадион им. Гастелло",
+        "st_title_en": "Stadion im. Gastello",
+        "st_lat": "54.798226",
+        "st_long": "56.139526",
+		"direction": "в Черниковку"
+    },
+    {
+        "st_id": "765",
+        "st_title": "Отдел кадров Уфимского моторостроительного производственного объединения (Отдел кадров УМПО)",
+        "st_title_en": "Otdel kadrov Ufimskogo motorostroitelnogo proizvodstvennogo obyedineniya (Otdel kadrov UMPO)",
+        "st_lat": "54.7926495",
+        "st_long": "56.1389263",
+		"direction": "в Инорс"
+    },
+    {
+        "st_id": "110",
+        "st_title": "Отдел кадров Уфимского моторостроительного производственного объединения (Отдел кадров УМПО)",
+        "st_title_en": "Otdel kadrov Ufimskogo motorostroitelnogo proizvodstvennogo obyedineniya (Otdel kadrov UMPO)",
+        "st_lat": "54.7928658",
+        "st_long": "56.1394221",
+		"direction": "из Инорса"
+    },
+    {
+        "st_id": "2044",
+        "st_title": "Ул. Валерия Лесунова",
+        "st_title_en": "Ul. Valeriya Lesunova",
+        "st_lat": "54.7854763",
+        "st_long": "56.1386343",
+		"direction": "в стор. ДОКа"
+    },
+    {
+        "st_id": "2045",
+        "st_title": "Ул. Валерия Лесунова",
+        "st_title_en": "Ul. Valeriya Lesunova",
+        "st_lat": "54.7859304",
+        "st_long": "56.1391984",
+		"direction": "из Инорса"
+    },
+    {
+        "st_id": "109",
+        "st_title": "ФМГОПУ им. Шолохова",
+        "st_title_en": "FMGOPU im. SHolohova",
+        "st_lat": "54.787988",
+        "st_long": "56.134371",
+		"direction": "в стор. стадиона"
+    },
+    {
+        "st_id": "764",
+        "st_title": "ФМГОПУ им. Шолохова",
+        "st_title_en": "FMGOPU im. SHolohova",
+        "st_lat": "54.788168",
+        "st_long": "56.134366",
+		"direction": "в стор. ДОКа"
+    },
+    {
+        "st_id": "739",
+        "st_title": "Заводоуправление Уфимского моторостроительного производственного объединения",
+        "st_title_en": "Zavodoupravlenie Ufimskogo motorostroitelnogo proizvodstvennogo obyedineniya",
+        "st_lat": "54.788113",
+        "st_long": "56.127617",
+		"direction": "в центр"
+    },
+    {
+        "st_id": "107",
+        "st_title": "Заводоуправление Уфимского моторостроительного производственного объединения (Заводоуправление УМПО)",
+        "st_title_en": "Zavodoupravlenie Ufimskogo motorostroitelnogo proizvodstvennogo obyedineniya (Zavodoupravlenie UMPO)",
+        "st_lat": "54.788037",
+        "st_long": "56.127705",
+		"direction": "в стор. стадиона"
+    },
+    {
+        "st_id": "1061",
+        "st_title": "Ул. Сельская Богородская",
+        "st_title_en": "Ul. Selskaya Bogorodskaya",
+        "st_lat": "54.7872863",
+        "st_long": "56.1218176",
+		"direction": "в стор. ДОКа"
+    },
+    {
+        "st_id": "105",
+        "st_title": "Ул. Сельская Богородская",
+        "st_title_en": "Ul. Selskaya Bogorodskaya",
+        "st_lat": "54.787997",
+        "st_long": "56.122955",
+		"direction": "в стор. стадиона"
+    },
+    {
+        "st_id": "742",
+        "st_title": "Гаражный кооператив \"Авиатор\"",
+        "st_title_en": "Garajnyiy kooperativ \"Aviator\"",
+        "st_lat": "54.788475",
+        "st_long": "56.113901",
+		"direction": "в Инорс"
+    },
+    {
+        "st_id": "409",
+        "st_title": "Гаражный кооператив \"Авиатор\"",
+        "st_title_en": "Garajnyiy kooperativ \"Aviator\"",
+        "st_lat": "54.7885787",
+        "st_long": "56.1151702",
+		"direction": "из Инорса"
+    },
+    {
+        "st_id": "120",
+        "st_title": "Ул. Ферина",
+        "st_title_en": "Ul. Ferina",
+        "st_lat": "54.784023",
+        "st_long": "56.131563",
+		"direction": "из Инорса"
+    },
+    {
+        "st_id": "738",
+        "st_title": "Ул. Ферина",
+        "st_title_en": "Ul. Ferina",
+        "st_lat": "54.784453",
+        "st_long": "56.131022",
+		"direction": "в стор. ДОКа"
+    },
+    {
+        "st_id": "121",
+        "st_title": "Богородско-Уфимский храм",
+        "st_title_en": "Bogorodsko-Ufimskiy hram",
+        "st_lat": "54.78159",
+        "st_long": "56.131543",
+		"direction": "из Инорса"
+    },
+    {
+        "st_id": "737",
+        "st_title": "Богородско-Уфимский храм",
+        "st_title_en": "Bogorodsko-Ufimskiy hram",
+        "st_lat": "54.78204",
+        "st_long": "56.131188",
+		"direction": "в стор. ДОКа"
+    },
+    {
+        "st_id": "1070",
+        "st_title": "Торговый центр \"Акварин\"",
+        "st_title_en": "Torgovyiy tsentr \"Akvarin\"",
+        "st_lat": "54.778728",
+        "st_long": "56.13141",
+		"direction": "из Инорса"
+    },
+    {
+        "st_id": "1069",
+        "st_title": "Торговый центр \"Акварин\"",
+        "st_title_en": "Torgovyiy tsentr \"Akvarin\"",
+        "st_lat": "54.778897",
+        "st_long": "56.131142",
+		"direction": "в стор. ДОКа"
+    },
+    {
+        "st_id": "124",
+        "st_title": "Школа №68",
+        "st_title_en": "SHkola №68",
+        "st_lat": "54.776435",
+        "st_long": "56.129637",
+		"direction": "в стор. ДОКа"
+    },
+    {
+        "st_id": "1056",
+        "st_title": "Школа №68",
+        "st_title_en": "SHkola №68",
+        "st_lat": "54.776255",
+        "st_long": "56.130427",
+		"direction": "из Инорса"
+    },
+    {
+        "st_id": "1058",
+        "st_title": "АЗС №114",
+        "st_title_en": "AZS №114",
+        "st_lat": "54.784935",
+        "st_long": "56.124198",
+		"direction": "в стор. ДОКа"
+    },
+    {
+        "st_id": "103",
+        "st_title": "АЗС №114",
+        "st_title_en": "AZS №114",
+        "st_lat": "54.785293",
+        "st_long": "56.12446",
+		"direction": "из Инорса"
+    },
+    {
+        "st_id": "102",
+        "st_title": "Ул. Тухвата Янаби",
+        "st_title_en": "Ul. Tuhvata YAnabi",
+        "st_lat": "54.781624",
+        "st_long": "56.124624",
+		"direction": "из Инорса"
+    },
+    {
+        "st_id": "1057",
+        "st_title": "Ул. Тухвата Янаби",
+        "st_title_en": "Ul. Tuhvata YAnabi",
+        "st_lat": "54.781755",
+        "st_long": "56.124217",
+		"direction": "в стор. ДОКа"
+    },
+    {
+        "st_id": "736",
+        "st_title": "Ул. Кольцова",
+        "st_title_en": "Ul. Koltsova",
+        "st_lat": "54.7802932",
+        "st_long": "56.1231006",
+		"direction": "в стор. ДОКа"
+    },
+    {
+        "st_id": "101",
+        "st_title": "Ул. Кольцова",
+        "st_title_en": "Ul. Koltsova",
+        "st_lat": "54.7800004",
+        "st_long": "56.1234343",
+		"direction": "из Инорса"
+    },
+    {
+        "st_id": "734",
+        "st_title": "Гимназия №121",
+        "st_title_en": "Gimnaziya №121",
+        "st_lat": "54.7780909",
+        "st_long": "56.1151438",
+		"direction": "в стор. ДОКа"
+    },
+    {
+        "st_id": "98",
+        "st_title": "Гимназия №121",
+        "st_title_en": "Gimnaziya №121",
+        "st_lat": "54.777783",
+        "st_long": "56.115205",
+		"direction": "из Инорса"
+    },
+    {
+        "st_id": "733",
+        "st_title": "Ул. Мушникова",
+        "st_title_en": "Ul. Mushnikova",
+        "st_lat": "54.775278",
+        "st_long": "56.113046",
+		"direction": "в стор. ДОКа"
+    },
+    {
+        "st_id": "95",
+        "st_title": "Ул. Мушникова",
+        "st_title_en": "Ul. Mushnikova",
+        "st_lat": "54.775623",
+        "st_long": "56.113626",
+		"direction": "из Инорса"
+    },
+    {
+        "st_id": "732",
+        "st_title": "Ул. Транспортная",
+        "st_title_en": "Ul. Transportnaya",
+        "st_lat": "54.773457",
+        "st_long": "56.117555",
+		"direction": "в стор. ДОКа"
+    },
+    {
+        "st_id": "94",
+        "st_title": "Ул. Транспортная",
+        "st_title_en": "Ul. Transportnaya",
+        "st_lat": "54.773775",
+        "st_long": "56.118352",
+		"direction": "из Инорса"
+    },
+    {
+        "st_id": "1059",
+        "st_title": "Переулок Железнодорожный",
+        "st_title_en": "Pereulok Jeleznodorojnyiy",
+        "st_lat": "54.7788",
+        "st_long": "56.124587"
+    },
+    {
+        "st_id": "1060",
+        "st_title": "Переулок Железнодорожный",
+        "st_title_en": "Pereulok Jeleznodorojnyiy",
+        "st_lat": "54.779108",
+        "st_long": "56.124272"
+    }
+]

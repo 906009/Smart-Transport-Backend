@@ -1,0 +1,767 @@
+[
+    {
+		"st_id": "68",
+		"st_title": "Универмаг \"Уфа\"",
+		"st_title_en": "Univermag \"Ufa\"",
+		"st_lat": "54.750268",
+		"st_long": "55.997636",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "541",
+		"st_title": "Универмаг \"Уфа\"",
+		"st_title_en": "Univermag \"Ufa\"",
+		"st_lat": "54.750378",
+		"st_long": "55.998592",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "66",
+		"st_title": "Ул. им. города Галле",
+		"st_title_en": "Ul. im. goroda Galle",
+		"st_lat": "54.745996",
+		"st_long": "55.992165",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "542",
+		"st_title": "Ул. им. города Галле",
+		"st_title_en": "Ul. im. goroda Galle",
+		"st_lat": "54.746753",
+		"st_long": "55.993961",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "607",
+		"st_title": "Ул. им. города Галле",
+		"st_title_en": "Ul. im. goroda Galle",
+		"st_lat": "54.747132",
+		"st_long": "55.992148",
+		"direction": "в стор. южного АВ"
+    },
+    {
+		"st_id": [543, 1308],
+		"st_title": "Фирма \"Мир\"",
+		"st_title_en": "Firma \"Mir\"",
+		"st_lat": "54.740876",
+		"st_long": "55.986511",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "64",
+		"st_title": "Фирма \"Мир\"",
+		"st_title_en": "Firma \"Mir\"",
+		"st_lat": "54.74202",
+		"st_long": "55.98731",
+		"direction": "в центр"
+    },
+	{
+		"st_id": "606",
+		"st_title": "Башкирский государственный аграрный университет",
+		"st_title_en": "Bashkirskiy gosudarstvennyiy agrarnyiy universitet",
+		"st_lat": "54.737538",
+		"st_long": "55.981288",
+		"direction": "в стор. Зелёной Рощи"
+    },
+    {
+		"st_id": "605",
+		"st_title": "Башкирский государственный аграрный университет",
+		"st_title_en": "Bashkirskiy gosudarstvennyiy agrarnyiy universitet",
+		"st_lat": "54.737693",
+		"st_long": "55.981819",
+		"direction": "из Зелёной Рощи"
+    },
+    {
+		"st_id": "544",
+		"st_title": "Башкирский государственный аграрный университет",
+		"st_title_en": "Bashkirskiy gosudarstvennyiy agrarnyiy universitet",
+		"st_lat": "54.738473",
+		"st_long": "55.980535",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "60",
+		"st_title": "Башкирский государственный аграрный университет",
+		"st_title_en": "Bashkirskiy gosudarstvennyiy agrarnyiy universitet",
+		"st_lat": "54.739082",
+		"st_long": "55.982273",
+		"direction": "в центр"
+    },
+	{
+		"st_id": "10045",
+		"st_title": "Ул. 8-е Марта",
+		"st_title_en": "Ul. 8-e Marta",
+		"st_lat": "54.735896",
+		"st_long": "55.979265",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "10044",
+		"st_title": "Ул. 8-е Марта",
+		"st_title_en": "Ul. 8-e Marta",
+		"st_lat": "54.73567",
+		"st_long": "55.979412",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "604",
+		"st_title": "Ул. 8-ое Марта",
+		"st_title_en": "Ul. 8-oe Marta",
+		"st_lat": "54.734968",
+		"st_long": "55.980182",
+		"direction": "в стор. Зелёной Рощи"
+    },
+    {
+		"st_id": "183",
+		"st_title": "Ул. 8 Марта",
+		"st_title_en": "Ul. 8-oe Marta",
+		"st_lat": "54.735",
+		"st_long": "55.980576",
+		"direction": "из Зелёной Рощи"
+    },
+	{
+		"st_id": "545",
+		"st_title": "Дом печати",
+		"st_title_en": "Dom pechati",
+		"st_lat": "54.736356",
+		"st_long": "55.967349",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "58",
+		"st_title": "Дом печати",
+		"st_title_en": "Dom pechati",
+		"st_lat": "54.737256",
+		"st_long": "55.970214",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "1131",
+		"st_title": "🚋 Дом печати",
+		"st_title_en": "🚋 Dom pechati",
+		"st_lat": "54.734983",
+		"st_long": "55.9709",
+		"direction": "в стор. Зелёной Рощи"
+    },
+    {
+		"st_id": "214",
+		"st_title": "🚋 Дом печати",
+		"st_title_en": "🚋 Dom pechati",
+		"st_lat": "54.735336",
+		"st_long": "55.971203",
+		"direction": "из Зелёной Рощи"
+    },
+    {
+        "st_id": "700",
+        "st_title": "Автотранспортный колледж",
+        "st_title_en": "Avtotransportnyiy kolledj",
+        "st_lat": "54.7436761",
+        "st_long": "55.9970755",
+		"direction": "из центра"
+    },
+    {
+        "st_id": "329",
+        "st_title": "Автотранспортный колледж",
+        "st_title_en": "Avtotransportnyiy kolledj",
+        "st_lat": "54.7443566",
+        "st_long": "55.9973202",
+		"direction": "в центр"
+    },
+    {
+        "st_id": "325",
+        "st_title": "Микрорайон Северный-Посадский",
+        "st_title_en": "Mikrorayon Severnyiy-Posadskiy",
+        "st_lat": "54.739512",
+        "st_long": "55.99211",
+		"direction": "в центр"
+    },
+    {
+        "st_id": "699",
+        "st_title": "Микрорайон Северный-Посадский",
+        "st_title_en": "Mikrorayon Severnyiy-Posadskiy",
+        "st_lat": "54.740405",
+        "st_long": "55.993532",
+		"direction": "из центра"
+    },
+    {
+        "st_id": "328",
+        "st_title": "Бульвар Хадии Давлетшиной",
+        "st_title_en": "Bulvar Hadii Davletshinoy",
+        "st_lat": "54.7369488",
+        "st_long": "55.9887367",
+		"direction": "в центр"
+    },
+    {
+        "st_id": "698",
+        "st_title": "Бульвар Хадии Давлетшиной",
+        "st_title_en": "Bulvar Hadii Davletshinoy",
+        "st_lat": "54.7374935",
+        "st_long": "55.9902362",
+		"direction": "из центра"
+    },
+    {
+        "st_id": "1194",
+        "st_title": "🚋 Башсбербанк",
+        "st_title_en": "🚋 Bashsberbank",
+        "st_lat": "54.746786",
+        "st_long": "55.98102",
+		"direction": "из центра"
+    },
+    {
+        "st_id": "32",
+        "st_title": "Башсбербанк",
+        "st_title_en": "Bashsberbank",
+        "st_lat": "54.747271",
+        "st_long": "55.98258",
+		"direction": "из центра"
+    },
+    {
+        "st_id": "1195",
+        "st_title": "Башсбербанк",
+        "st_title_en": "Bashsberbank",
+        "st_lat": "54.747348",
+        "st_long": "55.982093",
+		"direction": "в центр"
+    },
+    {
+        "st_id": "1192",
+        "st_title": "🚋 Ул. Кировоградская",
+        "st_title_en": "🚋 Ul. Kirovogradskaya",
+        "st_lat": "54.74458",
+        "st_long": "55.976478",
+		"direction": "из центра"
+    },
+    {
+        "st_id": "888",
+        "st_title": "Ул. Кировоградская",
+        "st_title_en": "Ul. Kirovogradskaya",
+        "st_lat": "54.745006",
+        "st_long": "55.976942",
+		"direction": "из центра"
+    },
+    {
+        "st_id": [35,1193],
+        "st_title": "Ул. Кировоградская",
+        "st_title_en": "Ul. Kirovogradskaya",
+        "st_lat": "54.745684",
+        "st_long": "55.976901",
+		"direction": "в центр"
+    },
+    {
+        "st_id": "1190",
+        "st_title": "🚋 Филиал «Уфагаз» ОАО «Газсервис» (Уфагаз)",
+        "st_title_en": "🚋 Filial «Ufagaz» OAO «Gazservis» (Ufagaz)",
+        "st_lat": "54.741151",
+        "st_long": "55.974731",
+		"direction": "из центра"
+    },
+    {
+        "st_id": "1191",
+        "st_title": "Филиал «Уфагаз» ОАО «Газсервис» (Уфагаз)",
+        "st_title_en": "Filial «Ufagaz» OAO «Gazservis» (Ufagaz)",
+        "st_lat": "54.741572",
+        "st_long": "55.974837",
+		"direction": "в центр"
+    },
+    {
+        "st_id": "10",
+        "st_title": "Филиал \"Уфагаз\" ОАО \"Газсервис\" (Уфагаз)",
+        "st_title_en": "Filial \"Ufagaz\" OAO \"Gazservis\" (Ufagaz)",
+        "st_lat": "54.741668",
+        "st_long": "55.975385",
+		"direction": "из центра"
+    },
+    {
+        "st_id": "1129",
+        "st_title": "🚋 Центр молодежи",
+        "st_title_en": "🚋 TSentr molodeji",
+        "st_lat": "54.7384049",
+        "st_long": "55.9728458",
+		"direction": "из центра"
+    },
+    {
+        "st_id": "1130",
+        "st_title": "🚋 Центр молодежи",
+        "st_title_en": "🚋 TSentr molodeji",
+        "st_lat": "54.738421",
+        "st_long": "55.972721",
+		"direction": "в центр"
+    },
+    {
+        "st_id": "37",
+        "st_title": "Центр молодежи",
+        "st_title_en": "TSentr molodeji",
+        "st_lat": "54.739416",
+        "st_long": "55.97293",
+		"direction": "в стор. ул. Ленина"
+    },
+    {
+        "st_id": [9,1128],
+        "st_title": "Метрологическая",
+        "st_title_en": "Metrologicheskaya",
+        "st_lat": "54.740168",
+        "st_long": "55.967474",
+		"direction": "в стор. Центр молодежи"
+    },
+    {
+        "st_id": [681,1127],
+        "st_title": "Метрологическая",
+        "st_title_en": "Metrologicheskaya",
+        "st_lat": "54.74088",
+        "st_long": "55.966307",
+		"direction": "в стор. ул. Ленина"
+    },
+    {
+        "st_id": "40",
+        "st_title": "Ул. 50-летия Октября",
+        "st_title_en": "Ul. 50-letiya Oktyabrya",
+        "st_lat": "54.736995",
+        "st_long": "55.965364",
+		"direction": "в центр"
+    },
+    {
+        "st_id": "975",
+        "st_title": "Ул. 50-летия Октября",
+        "st_title_en": "Ul. 50-letiya Oktyabrya",
+        "st_lat": "54.737965",
+        "st_long": "55.96596",
+		"direction": "в стор. б-р Ибрагимова"
+    },
+    {
+        "st_id": "680",
+        "st_title": "проходная УЗЭМИК",
+        "st_title_en": "Prohodnaya Ufimskogo zavoda elastomernyih materialov i konstruktsiy (prohodnaya UZEMIK)",
+        "st_lat": "54.742905",
+        "st_long": "55.967795",
+		"direction": "в стор. б-р Ибрагимова"
+    },
+    {
+        "st_id": "428",
+        "st_title": "проходная УЗЭМИК",
+        "st_title_en": "Prohodnaya Ufimskogo zavoda elastomernyih materialov i konstruktsiy (prohodnaya UZEMIK)",
+        "st_lat": "54.742871",
+        "st_long": "55.968073",
+		"direction": "в стор. Затона"
+    },
+    {
+        "st_id": "140",
+        "st_title": "Завод \"Магнетрон\"",
+        "st_title_en": "Zavod \"Magnetron\"",
+        "st_lat": "54.74698",
+        "st_long": "55.970938",
+		"direction": "из центра"
+    },
+    {
+        "st_id": "679",
+        "st_title": "Завод \"Магнетрон\"",
+        "st_title_en": "Zavod \"Magnetron\"",
+        "st_lat": "54.747387",
+        "st_long": "55.970863",
+		"direction": "в центр"
+    },
+    {
+        "st_id": "272",
+        "st_title": "Микрорайон Молодежный",
+        "st_title_en": "Mikrorayon Molodejnyiy",
+        "st_lat": "54.731164",
+        "st_long": "55.993821",
+		"direction": "в стор. Зелёной Рощи"
+    },
+    {
+        "st_id": "639",
+        "st_title": "Микрорайон Молодежный",
+        "st_title_en": "Mikrorayon Molodejnyiy",
+        "st_lat": "54.731464",
+        "st_long": "55.993682",
+		"direction": "в стор. Айской"
+    },
+    {
+        "st_id": "640",
+        "st_title": "Ул. Владивостокская",
+        "st_title_en": "Ul. Vladivostokskaya",
+        "st_lat": "54.7306074",
+        "st_long": "55.9846089",
+		"direction": "в стор. Зелёной Рощи"
+    },
+    {
+        "st_id": "327",
+        "st_title": "Ул. Владивостокская",
+        "st_title_en": "Ul. Vladivostokskaya",
+        "st_lat": "54.7306374",
+        "st_long": "55.9854945",
+		"direction": "в стор. Айской"
+    },
+    {
+        "st_id": "603",
+        "st_title": "Ул. Айская",
+        "st_title_en": "Ul. Ayskaya",
+        "st_lat": "54.730678",
+        "st_long": "55.978253",
+		"direction": "в стор. Зелёной Рощи"
+    },
+    {
+        "st_id": "944",
+        "st_title": "Уфаархпроект",
+        "st_title_en": "Ufaarhproekt",
+        "st_lat": "54.731228",
+        "st_long": "55.980538",
+		"direction": "в стор. Зелёной Рощи"
+    },
+    {
+        "st_id": "181",
+        "st_title": "Ул. Айская",
+        "st_title_en": "Ul. Ayskaya",
+        "st_lat": "54.732575",
+        "st_long": "55.979483",
+		"direction": "в стор. БГАУ"
+    },
+    {
+        "st_id": "656",
+        "st_title": "Издательство \"Белая река\"",
+        "st_title_en": "Izdatelstvo \"Belaya reka\"",
+        "st_lat": "54.725463",
+        "st_long": "55.984628",
+		"direction": "в стор. Зелёной Рощи"
+    },
+    {
+        "st_id": "310",
+        "st_title": "Издательство \"Белая река\"",
+        "st_title_en": "Izdatelstvo \"Belaya reka\"",
+        "st_lat": "54.725348",
+        "st_long": "55.986255",
+		"direction": "в стор. Айской"
+    },
+    {
+        "st_id": "617",
+        "st_title": "Ул. Кирова",
+        "st_title_en": "Ul. Kirova",
+        "st_lat": "54.728002",
+        "st_long": "55.97676",
+		"direction": "в стор. Зелёной Рощи"
+    },
+    {
+        "st_id": "180",
+        "st_title": "Ул. Кирова",
+        "st_title_en": "Ul. Kirova",
+        "st_lat": "54.728152",
+        "st_long": "55.977485",
+		"direction": "в стор. БГАУ"
+    },
+    {
+        "st_id": "697",
+        "st_title": "Завод \"Электролуч\"",
+        "st_title_en": "Zavod \"Elektroluch\"",
+        "st_lat": "54.729613",
+        "st_long": "55.976234",
+		"direction": "в центр"
+    },
+    {
+        "st_id": "319",
+        "st_title": "Завод \"Электролуч\"",
+        "st_title_en": "Zavod \"Elektroluch\"",
+        "st_lat": "54.729687",
+        "st_long": "55.97482",
+		"direction": "из центра"
+    },
+    {
+        "st_id": "476",
+        "st_title": "Финансовый колледж",
+        "st_title_en": "Finansovyiy kolledj",
+        "st_lat": "54.732122",
+        "st_long": "55.97476",
+		"direction": "из центра"
+    },
+    {
+        "st_id": "1133",
+        "st_title": "🚋 Республиканская клиническая больница им. Куватова (РКБ им. Куватова)",
+        "st_title_en": "🚋 Respublikanskaya klinicheskaya bolnitsa im. Kuvatova (RKB im. Kuvatova)",
+        "st_lat": "54.730385",
+        "st_long": "55.968769",
+		"direction": "из Зелёной Рощи"
+    },
+    {
+        "st_id": "1132",
+        "st_title": "🚋 Республиканская клиническая больница им. Куватова (РКБ им. Куватова)",
+        "st_title_en": "🚋 Respublikanskaya klinicheskaya bolnitsa im. Kuvatova (RKB im. Kuvatova)",
+        "st_lat": "54.730952",
+        "st_long": "55.968934",
+		"direction": "в Зелёную Рощу"
+    },
+    {
+        "st_id": [890,215],
+        "st_title": "Ул. Революционная",
+        "st_title_en": "Ul. Revolyutsionnaya",
+        "st_lat": "54.733386",
+        "st_long": "55.966313",
+		"direction": "из центра"
+    },
+    {
+        "st_id": [891,1186],
+        "st_title": "Ул. Революционная",
+        "st_title_en": "Ul. Revolyutsionnaya",
+        "st_lat": "54.733413",
+        "st_long": "55.968088",
+		"direction": "в центр"
+    },
+    {
+        "st_id": "1151",
+        "st_title": "🚋 Студенческая",
+        "st_title_en": "🚋 Studencheskaya",
+        "st_lat": "54.732665",
+        "st_long": "55.969911",
+		"direction": "из Зелёной Рощи"
+    },
+    {
+        "st_id": "547",
+        "st_title": "Торговый комплекс \"Центральный\"",
+        "st_title_en": "Torgovyiy kompleks \"TSentralnyiy\"",
+        "st_lat": "54.734314",
+        "st_long": "55.957983",
+		"direction": "из центра"
+    },
+    {
+        "st_id": "943",
+        "st_title": "Торговый комплекс \"Центральный\"",
+        "st_title_en": "Torgovyiy kompleks \"TSentralnyiy\"",
+        "st_lat": "54.737561",
+        "st_long": "55.958822",
+		"direction": "у Уфа-Арена"
+    },
+    {
+        "st_id": "44",
+        "st_title": "Торговый комплекс \"Центральный\"",
+        "st_title_en": "Torgovyiy kompleks \"TSentralnyiy\"",
+        "st_lat": "54.735549",
+        "st_long": "55.959056",
+		"direction": "в центр"
+    },
+    {
+        "st_id": [45,892,893,1185],
+        "st_title": "Торговый комплекс \"Центральный\"",
+        "st_title_en": "Torgovyiy kompleks \"TSentralnyiy\"",
+        "st_lat": "54.734554",
+        "st_long": "55.959705",
+		"direction": "у трамвая"
+    },
+    {
+        "st_id": "1348",
+        "st_title": "Биржа труда",
+        "st_title_en": "Birja truda",
+        "st_lat": "54.741309",
+        "st_long": "55.961048",
+		"direction": "из центра"
+    },
+    {
+        "st_id": "473",
+        "st_title": "Биржа труда",
+        "st_title_en": "Birja truda",
+        "st_lat": "54.741357",
+        "st_long": "55.960693",
+		"direction": "в центр"
+    },
+    {
+        "st_id": "1971",
+        "st_title": "Бизнес-центр \"Армада\"",
+        "st_title_en": "Biznes-tsentr \"Armada\"",
+        "st_lat": "54.747687",
+        "st_long": "55.967263",
+		"direction": "к ЖД вокзалу"
+    },
+    {
+        "st_id": "1448",
+        "st_title": "Бизнес-центр \"Армада\"",
+        "st_title_en": "Biznes-tsentr \"Armada\"",
+        "st_lat": "54.747784",
+        "st_long": "55.966423",
+		"direction": "от ЖД вокзала"
+    },
+    {
+        "st_id": "474",
+        "st_title": "Речной порт",
+        "st_title_en": "Rechnoy port",
+        "st_lat": "54.752581",
+        "st_long": "55.963210",
+		"direction": "к ЖД вокзалу"
+    },
+    {
+        "st_id": "684",
+        "st_title": "Речной порт",
+        "st_title_en": "Rechnoy port",
+        "st_lat": "54.752332",
+        "st_long": "55.963268",
+		"direction": "от ЖД вокзала"
+    },
+    {
+        "st_id": [12,1306,1183],
+        "st_title": "Уфимский авиационный техникум",
+        "st_title_en": "Ufimskiy aviatsionnyiy tehnikum",
+        "st_lat": "54.73607",
+        "st_long": "55.950973",
+		"direction": "от ТК Центральный"
+    },
+    {
+        "st_id": [509,1184],
+        "st_title": "Уфимский авиационный техникум (Авиатехникум)",
+        "st_title_en": "Ufimskiy aviatsionnyiy tehnikum (Aviatehnikum)",
+        "st_lat": "54.735866",
+        "st_long": "55.951214",
+		"direction": "к ТК Центральный"
+    },
+    {
+        "st_id": "942",
+        "st_title": "Башкиргражданпроект",
+        "st_title_en": "Bashkirgrajdanproekt",
+        "st_lat": "54.735381",
+        "st_long": "55.953191",
+		"direction": "к ТК Центральный"
+    },
+    {
+        "st_id": "195",
+        "st_title": "Ул. Революционная",
+        "st_title_en": "Ul. Revolyutsionnaya",
+        "st_lat": "54.736415",
+        "st_long": "55.946063",
+		"direction": "к ЖД вокзалу"
+    },
+    {
+        "st_id": [1294,1182],
+        "st_title": "ул. Карла Маркса",
+        "st_title_en": "Ul. Karla Marksa",
+        "st_lat": "54.736706",
+        "st_long": "55.946682",
+		"direction": "от ТК Центральный"
+    },
+    {
+        "st_id": [15,896],
+        "st_title": "ул. Карла Маркса",
+        "st_title_en": "Ul. Karla Marksa",
+        "st_lat": "54.736972",
+        "st_long": "55.944735",
+		"direction": "к ТК Центральный"
+    },
+    {
+        "st_id": "820",
+        "st_title": "Ул. Революционная",
+        "st_title_en": "Ul. Revolyutsionnaya",
+        "st_lat": "54.737275",
+        "st_long": "55.946162",
+		"direction": "от ЖД вокзала"
+    },
+    {
+        "st_id": [1180,1181],
+        "st_title": "🚋 Ул. Аксакова",
+        "st_title_en": "🚋 Ul. Aksakova",
+        "st_lat": "54.73751",
+        "st_long": "55.941344",
+		"direction": "у трамвая"
+    },
+    {
+        "st_id": "216",
+        "st_title": "Ул. Аксакова",
+        "st_title_en": "Ul. Aksakova",
+        "st_lat": "54.737933",
+        "st_long": "55.939865",
+		"direction": "в центр"
+    },
+    {
+        "st_id": "821",
+        "st_title": "Ул. Аксакова",
+        "st_title_en": "Ul. Aksakova",
+        "st_lat": "54.738433",
+        "st_long": "55.939785",
+		"direction": "в стор. ул. Держинского"
+    },
+    {
+        "st_id": "11",
+        "st_title": "Ледовый дворец \"Уфа-Арена\"",
+        "st_title_en": "Ledovyiy dvorets \"Ufa-Arena\"",
+        "st_lat": "54.738736",
+        "st_long": "55.953823",
+		"direction": "в центр"
+    },
+    {
+        "st_id": "570",
+        "st_title": "Ледовый дворец \"Уфа-Арена\"",
+        "st_title_en": "Ledovyiy dvorets \"Ufa-Arena\"",
+        "st_lat": "54.739153",
+        "st_long": "55.954517",
+		"direction": "из центра"
+    },
+    {
+        "st_id": "819",
+        "st_title": "Парк им. Ивана Якутова",
+        "st_title_en": "Park im. Ivana YAkutova",
+        "st_lat": "54.739839",
+        "st_long": "55.947455",
+		"direction": "в центр"
+    },
+    {
+        "st_id": "177",
+        "st_title": "Парк им. Ивана Якутова",
+        "st_title_en": "Park im. Ivana YAkutova",
+        "st_lat": "54.739845",
+        "st_long": "55.94773",
+		"direction": "из центра"
+    },
+    {
+        "st_id": "178",
+        "st_title": "Дворец культуры железнодорожников",
+        "st_title_en": "Dvorets kulturyi jeleznodorojnikov",
+        "st_lat": "54.742319",
+        "st_long": "55.949898",
+		"direction": "из центра"
+    },
+    {
+        "st_id": "818",
+        "st_title": "Дворец культуры железнодорожников",
+        "st_title_en": "Dvorets kulturyi jeleznodorojnikov",
+        "st_lat": "54.743114",
+        "st_long": "55.950098",
+		"direction": "в центр"
+    },
+    {
+        "st_id": "1343",
+        "st_title": "Вагонное депо",
+        "st_title_en": "Vagonnoe depo",
+        "st_lat": "54.746855",
+        "st_long": "55.947728"
+    },
+    {
+        "st_id": "686",
+        "st_title": "Железнодорожный вокзал",
+        "st_title_en": "Jeleznodorojnyiy vokzal",
+        "st_lat": "54.7474",
+        "st_long": "55.949712",
+		"direction": "в центр"
+    },
+    {
+        "st_id": "1118",
+        "st_title": "🚋 Железнодорожный вокзал",
+        "st_title_en": "🚋 Jeleznodorojnyiy vokzal",
+        "st_lat": "54.747433",
+        "st_long": "55.94928",
+		"direction": "у трамвая"
+    },
+    {
+        "st_id": [205,1365],
+        "st_title": "Железнодорожный вокзал",
+        "st_title_en": "Jeleznodorojnyiy vokzal",
+        "st_lat": "54.747918",
+        "st_long": "55.948902",
+		"direction": "в Нижегородку"
+    },
+    {
+        "st_id": [1125,682],
+        "st_title": "Башкирское речное пароходство",
+        "st_title_en": "Bashkirskoe rechnoe parohodstvo",
+        "st_lat": "54.743276",
+        "st_long": "55.956927"
+    },
+    {
+        "st_id": [7,1124],
+        "st_title": "Башкирское речное пароходство",
+        "st_title_en": "Bashkirskoe rechnoe parohodstvo",
+        "st_lat": "54.743712",
+        "st_long": "55.957506"
+    }
+]

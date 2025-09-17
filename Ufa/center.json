@@ -1,0 +1,522 @@
+[
+	{
+		"st_id": "317",
+		"st_title": "Гостиный двор",
+		"st_title_en": "Gostinyiy dvor",
+		"st_lat": "54.724081",
+		"st_long": "55.946246",
+		"direction": "в центр"
+	},
+	{
+		"st_id": "548",
+		"st_title": "Гостиный двор",
+		"st_title_en": "Gostinyiy dvor",
+		"st_lat": "54.725292",
+		"st_long": "55.947211",
+		"direction": "из центра"
+	},
+    {
+		"st_id": "569",
+		"st_title": "Гостиница \"Башкортостан\"",
+		"st_title_en": "Gostinitsa \"Bashkortostan\"",
+		"st_lat": "54.72984",
+		"st_long": "55.949436",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "318",
+		"st_title": "Гостиница \"Башкортостан\"",
+		"st_title_en": "Gostinitsa \"Bashkortostan\"",
+		"st_lat": "54.730015",
+		"st_long": "55.949082",
+		"direction": "в центр"
+    },
+	{
+		"st_id": "1690",
+		"st_title": "Торгово-сервисный комплекс \"Пушкинский\"",
+		"st_title_en": "Torgovo-servisnyiy kompleks \"Pushkinskiy\"",
+		"st_lat": "54.725358",
+		"st_long": "55.922819",
+		"direction": "конечная"
+    },
+    {
+		"st_id": "316",
+		"st_title": "Торгово-сервисный комплекс \"Пушкинский\"",
+		"st_title_en": "Torgovo-servisnyiy kompleks \"Pushkinskiy\"",
+		"st_lat": "54.725072",
+		"st_long": "55.925561",
+		"direction": "в стор. Цюрупы"
+    },
+	{
+		"st_id": "761",
+		"st_title": "Ул. Пушкина",
+		"st_title_en": "Ul. Pushkina",
+		"st_lat": "54.724606",
+		"st_long": "55.929372",
+		"direction": "в стор. Гафури"
+    },
+    {
+		"st_id": "762",
+		"st_title": "Ул. Пушкина",
+		"st_title_en": "Ul. Pushkina",
+		"st_lat": "54.724124",
+		"st_long": "55.931206",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "8327",
+		"st_title": "Телецентр",
+		"st_title_en": "Teletsentr",
+		"st_lat": "54.724125",
+		"st_long": "55.927143",
+		"direction": "в стор. БГУ"
+    },
+    {
+		"st_id": "132",
+		"st_title": "Телецентр",
+		"st_title_en": "Teletsentr",
+		"st_lat": "54.724223",
+		"st_long": "55.927588",
+		"direction": "со стор. БГУ"
+    },
+	{
+		"st_id": "131",
+		"st_title": "Башкирский государственный университет (БГУ)",
+		"st_title_en": "Bashkirskiy gosudarstvennyiy universitet (BGU)",
+		"st_lat": "54.721169",
+		"st_long": "55.931895",
+		"direction": "в стор. Цюрупы"
+    },
+    {
+		"st_id": "703",
+		"st_title": "Башкирский государственный университет (БГУ)",
+		"st_title_en": "Bashkirskiy gosudarstvennyiy universitet (BGU)",
+		"st_lat": "54.721462",
+		"st_long": "55.931914",
+		"direction": "в стор. телецентра"
+    },
+	{
+		"st_id": "1368",
+		"st_title": "Музей им. Мажита Гафури",
+		"st_title_en": "Muzey im. Majita Gafuri",
+		"st_lat": "54.720965",
+		"st_long": "55.935402",
+		"direction": "в стор. Пушкина"
+    },
+	{
+		"st_id": "760",
+		"st_title": "Дом Актёра им. Б.А. Юсуповой",
+		"st_title_en": "Dom Aktera im. B.A. YUsupovoy",
+		"st_lat": "54.722722",
+		"st_long": "55.940943",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "338",
+		"st_title": "Дом Актёра им. Б.А. Юсуповой",
+		"st_title_en": "Dom Aktera im. B.A. YUsupovoy",
+		"st_lat": "54.72203",
+		"st_long": "55.943378",
+		"direction": "из центра"
+    },
+	{
+		"st_id": "845",
+		"st_title": "Парк им. Ленина",
+		"st_title_en": "Park im. Lenina",
+		"st_lat": "54.719196",
+		"st_long": "55.943799",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "126",
+		"st_title": "Парк им. Ленина",
+		"st_title_en": "Park im. Lenina",
+		"st_lat": "54.719387",
+		"st_long": "55.943864",
+		"direction": "в стор. БГУ"
+    },
+    {
+		"st_id": "824",
+		"st_title": "Башгосдрамтеатр",
+		"st_title_en": "Bashgosdramteatr",
+		"st_lat": "54.7198",
+		"st_long": "55.940159",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "47",
+		"st_title": "Башгосдрамтеатр",
+		"st_title_en": "Bashgosdramteatr",
+		"st_lat": "54.719913",
+		"st_long": "55.940641",
+		"direction": "в стор. БГУ"
+    },
+	{
+		"st_id": "551",
+		"st_title": "Национальный музей РБ",
+		"st_title_en": "Natsionalnyiy muzey Respubliki Bashkortostan (Natsionalnyiy muzey RB)",
+		"st_lat": "54.719967",
+		"st_long": "55.950263",
+		"direction": "в стор. ТК \"Центральный\""
+    },
+    {
+		"st_id": "125",
+		"st_title": "Национальный музей РБ",
+		"st_title_en": "Natsionalnyiy muzey Respubliki Bashkortostan (Natsionalnyiy muzey RB)",
+		"st_lat": "54.720526",
+		"st_long": "55.950057",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "282",
+		"st_title": "Советская площадь",
+		"st_title_en": "Sovetskaya ploschad",
+		"st_lat": "54.721206",
+		"st_long": "55.948558",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "1975",
+		"st_title": "Советская площадь",
+		"st_title_en": "Sovetskaya ploschad",
+		"st_lat": "54.721791",
+		"st_long": "55.946412",
+		"direction": "в стор. Ленина"
+    },
+    {
+		"st_id": "759",
+		"st_title": "Педагогический университет",
+		"st_title_en": "Pedagogicheskiy universitet",
+		"st_lat": "54.723883",
+		"st_long": "55.949715",
+		"direction": "в стор. Ленина"
+    },
+    {
+		"st_id": "758",
+		"st_title": "Педагогический университет",
+		"st_title_en": "Pedagogicheskiy universitet",
+		"st_lat": "54.723953",
+		"st_long": "55.948688",
+		"direction": "в стор. Цюрупы"
+    },
+	{
+		"st_id": "349",
+		"st_title": "Ул. Новомостовая",
+		"st_title_en": "Ul. Novomostovaya",
+		"st_lat": "54.716049",
+		"st_long": "55.954842",
+		"direction": "в стор. пр-та Салавата Юлаева"
+    },
+    {
+		"st_id": "553",
+		"st_title": "Ул. Новомостовая",
+		"st_title_en": "Ul. Novomostovaya",
+		"st_lat": "54.716831",
+		"st_long": "55.953723",
+		"direction": "в центр"
+    },
+	{
+		"st_id": "10088",
+		"st_title": "Центр отдыха Юность",
+		"st_title_en": "TSentr otdyiha YUnost",
+		"st_lat": "54.713492",
+		"st_long": "55.939271",
+		"direction": "в стор. Монумента Дружбы"
+    },
+    {
+		"st_id": "10087",
+		"st_title": "Центр отдыха Юность",
+		"st_title_en": "TSentr otdyiha YUnost",
+		"st_lat": "54.713638",
+		"st_long": "55.939465",
+		"direction": "в стор. ЖД Правая Белая"
+    },
+    {
+		"st_id": "10086",
+		"st_title": "Набережная р. Белая в районе памятника Салавата Юлаева",
+		"st_title_en": "Naberejnaya r. Belaya v rayone pamyatnika Salavata YUlaeva",
+		"st_lat": "54.718536",
+		"st_long": "55.920458",
+		"direction": "в стор. Монумента Дружбы"
+    },
+    {
+		"st_id": "10085",
+		"st_title": "Набережная р. Белая в районе памятника Салавата Юлаева",
+		"st_title_en": "Naberejnaya r. Belaya v rayone pamyatnika Salavata YUlaeva",
+		"st_lat": "54.718595",
+		"st_long": "55.920796",
+		"direction": "в стор. ЖД Правая Белая"
+    },
+	{
+		"st_id": "10084",
+		"st_title": "ул. Правая Белая",
+		"st_title_en": "ul. Pravaya Belaya",
+		"st_lat": "54.731084",
+		"st_long": "55.916998",
+		"direction": "конечная"
+	},
+	{
+		"st_id": "201",
+		"st_title": "Ул. Аральская",
+		"st_title_en": "Ul. Aralskaya",
+		"st_lat": "54.729868",
+		"st_long": "55.924915",
+		"direction": "конечная"
+	},
+	{
+		"st_id": "1172",
+		"st_title": "🚋 Ул. Пушкина",
+		"st_title_en": "🚋 Ul. Pushkina",
+		"st_lat": "54.726997",
+		"st_long": "55.923879",
+		"direction": "конечная"
+    },
+    {
+		"st_id": "134",
+		"st_title": "🚋 Ул. Пушкина",
+		"st_title_en": "🚋 Ul. Pushkina",
+		"st_lat": "54.727311",
+		"st_long": "55.925131",
+		"direction": "в стор. ТК \"Центральный\""
+    },
+	{
+		"st_id": "1174",
+		"st_title": "🚋 Ул. Мажита Гафури",
+		"st_title_en": "🚋 Ul. Majita Gafuri",
+		"st_lat": "54.727165",
+		"st_long": "55.92822",
+		"direction": "в стор. ТК \"Центральный\""
+    },
+    {
+		"st_id": "1173",
+		"st_title": "🚋 Ул. Мажита Гафури",
+		"st_title_en": "🚋 Ul. Majita Gafuri",
+		"st_lat": "54.727193",
+		"st_long": "55.929111",
+		"direction": "в стор. Пушкина"
+    },
+    {
+		"st_id": "133",
+		"st_title": "Ул. Мажита Гафури",
+		"st_title_en": "Ul. Majita Gafuri",
+		"st_lat": "54.727599",
+		"st_long": "55.929218",
+		"direction": "в стор. мкр. Агрегатный"
+    },
+    {
+		"st_id": "690",
+		"st_title": "Ул. Мажита Гафури",
+		"st_title_en": "Ul. Majita Gafuri",
+		"st_lat": "54.728633",
+		"st_long": "55.929373",
+		"direction": "в стор. Телецентр"
+    },
+    {
+		"st_id": "1175",
+		"st_title": "🚋 Ул. Свердлова",
+		"st_title_en": "🚋 Ul. Sverdlova",
+		"st_lat": "54.726342",
+		"st_long": "55.934234",
+		"direction": "в стор. ТК \"Центральный\""
+    },
+    {
+		"st_id": "138",
+		"st_title": "🚋 Ул. Свердлова",
+		"st_title_en": "🚋 Ul. Sverdlova",
+		"st_lat": "54.72646",
+		"st_long": "55.933688",
+		"direction": "в стор. Пушкина"
+    },
+	{
+		"st_id": "1079",
+		"st_title": "Ул. Зенцова",
+		"st_title_en": "Ul. Zentsova",
+		"st_lat": "54.728536",
+		"st_long": "55.932726",
+		"direction": "в стор. УУНИТ"
+    },
+    {
+		"st_id": "143",
+		"st_title": "Ул. Зенцова",
+		"st_title_en": "Ul. Zentsova",
+		"st_lat": "54.728662",
+		"st_long": "55.9324",
+		"direction": "в стор. ул. Аральская"
+    },
+	{
+		"st_id": "1078",
+		"st_title": "Ул. Аксакова",
+		"st_title_en": "Ul. Aksakova",
+		"st_lat": "54.728137",
+		"st_long": "55.934846",
+		"direction": "в стор. УУНИТ"
+	},
+	{
+		"st_id": "1176",
+		"st_title": "🚋 Ул. Коммунистическая",
+		"st_title_en": "🚋 Ul. Kommunisticheskaya",
+		"st_lat": "54.727833",
+		"st_long": "55.935583",
+		"direction": "в стор. ТК \"Центральный\""
+    },
+    {
+		"st_id": "1177",
+		"st_title": "🚋 Ул. Коммунистическая",
+		"st_title_en": "🚋 Ul. Kommunisticheskaya",
+		"st_lat": "54.728365",
+		"st_long": "55.935519",
+		"direction": "в стор. Пушкина"
+    },
+    {
+		"st_id": "136",
+		"st_title": "Ул. Коммунистическая",
+		"st_title_en": "Ul. Kommunisticheskaya",
+		"st_lat": "54.72867",
+		"st_long": "55.935677",
+		"direction": "в стор. Пушкина"
+    },
+    {
+		"st_id": "823",
+		"st_title": "Ул. Коммунистическая",
+		"st_title_en": "Ul. Kommunisticheskaya",
+		"st_lat": "54.728999",
+		"st_long": "55.936306",
+		"direction": "из центра"
+    },
+	{
+		"st_id": "50",
+		"st_title": "Центральный универмаг",
+		"st_title_en": "TSentralnyiy univermag",
+		"st_lat": "54.725088",
+		"st_long": "55.940287",
+		"direction": "в центр"
+    },
+	{
+		"st_id": "692",
+		"st_title": "Центральный универмаг",
+		"st_title_en": "TSentralnyiy univermag",
+		"st_lat": "54.7258020",
+		"st_long": "55.9411208",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "1743",
+		"st_title": "Музей им. М. В. Нестерова",
+		"st_title_en": "Muzey im. M. V. Nesterova",
+		"st_lat": "54.725159",
+		"st_long": "55.93754",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "1369",
+		"st_title": "Музей им. М.В. Нестерова",
+		"st_title_en": "Muzey im. M.V. Nesterova",
+		"st_lat": "54.725656",
+		"st_long": "55.939176",
+		"direction": "со стор. УУНИТ"
+    },
+    {
+		"st_id": "280",
+		"st_title": "Музей им. М.В. Нестерова",
+		"st_title_en": "Muzey im. M.V. Nesterova",
+		"st_lat": "54.725677",
+		"st_long": "55.938405",
+		"direction": "в стор. УУНИТ"
+    },
+    {
+		"st_id": "1645",
+		"st_title": "Музей Нестерова (207 маршрут)",
+		"st_title_en": "Muzey Nesterova (207 marshrut)",
+		"st_lat": "54.725863",
+		"st_long": "55.937131",
+		"direction": "в стор. УУНИТ"
+    },
+    {
+		"st_id": "139",
+		"st_title": "Башгосфилармония",
+		"st_title_en": "Bashgosfilarmoniya",
+		"st_lat": "54.72739",
+		"st_long": "55.939982",
+		"direction": "в стор. ул. Аксакова"
+    },
+    {
+		"st_id": "1019",
+		"st_title": "Башгосфилармония",
+		"st_title_en": "Bashgosfilarmoniya",
+		"st_lat": "54.727402",
+		"st_long": "55.939152",
+		"direction": "в стор. УУНИТ"
+    },
+    {
+		"st_id": "52",
+		"st_title": "Уфимский государственный авиационный технический университет (УГАТУ)",
+		"st_title_en": "Ufimskiy gosudarstvennyiy aviatsionnyiy tehnicheskiy universitet (UGATU)",
+		"st_lat": "54.726702",
+		"st_long": "55.943382",
+		"direction": "в стор. ул. Ленина"
+    },
+	{
+		"st_id": "53",
+		"st_title": "Сквер им. Маяковского",
+		"st_title_en": "Skver im. Mayakovskogo",
+		"st_lat": "54.725275",
+		"st_long": "55.952107",
+		"direction": "в стор. ул. Цюрупы"
+    },
+    {
+		"st_id": "693",
+		"st_title": "Сквер им. Маяковского",
+		"st_title_en": "Skver im. Mayakovskogo",
+		"st_lat": "54.725325",
+		"st_long": "55.952742",
+		"direction": "в стор. УУНИТ"
+    },
+    {
+		"st_id": "1992",
+		"st_title": "Государственный комитет Республики Башкортостан по делам юстиции (ГК РБ по делам юстиции)",
+		"st_title_en": "Gosudarstvennyiy komitet Respubliki Bashkortostan po delam yustitsii (GK RB o delam yustitsii)",
+		"st_lat": "54.72692",
+		"st_long": "55.95399",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "122",
+		"st_title": "Государственный комитет Республики Башкортостан по делам юстиции (ГК РБ по делам юстиции)",
+		"st_title_en": "Gosudarstvennyiy komitet Respubliki Bashkortostan po delam yustitsii (GK RB po delam yustitsii)",
+		"st_lat": "54.726405",
+		"st_long": "55.954205",
+		"direction": "из центра"
+    },
+	{
+		"st_id": "816",
+		"st_title": "Ул. Октябрьской Революции",
+		"st_title_en": "Ul. Oktyabrskoy Revolyutsii",
+		"st_lat": "54.723163",
+		"st_long": "55.951292",
+		"direction": "в стор. ул. Заки Валиди"
+    },
+    {
+		"st_id": "123",
+		"st_title": "Ул. Октябрьской Революции",
+		"st_title_en": "Ul. Oktyabrskoy Revolyutsii",
+		"st_lat": "54.723127",
+		"st_long": "55.952312",
+		"direction": "в стор. Гостиный двор"
+    },
+    {
+		"st_id": "1290",
+		"st_title": "Ул. Октябрьской Революции",
+		"st_title_en": "Ul. Oktyabrskoy Revolyutsii",
+		"st_lat": "54.7236698",
+		"st_long": "55.9520358",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "757",
+		"st_title": "Ул. Октябрьской Революции",
+		"st_title_en": "Ul. Oktyabrskoy Revolyutsii",
+		"st_lat": "54.722424",
+		"st_long": "55.953393",
+		"direction": "в стор. пр-та Салавата Юлаева"
+    }
+]

@@ -1,0 +1,354 @@
+[
+	{
+		"st_id": "166",
+		"st_title": "Ул. Юрия Гагарина ок. Уралконтракт",
+		"st_title_en": "Ul. YUriya Gagarina ok. Uralkontrakt",
+		"st_lat": "54.764423",
+		"st_long": "56.063555",
+		"direction": "в центр"
+	},
+	{
+		"st_id": "9643",
+		"st_title": "ул. Юрия Гагарина",
+		"st_title_en": "ul. YUriya Gagarina",
+		"st_lat": "54.765387",
+		"st_long": "56.063731",
+		"direction": "из центра"
+	},
+	{
+		"st_id": "516",
+		"st_title": "Ул. Юрия Гагарина",
+		"st_title_en": "Ul. YUriya Gagarina",
+		"st_lat": "54.765122",
+		"st_long": "56.064577",
+		"direction": "в центр"
+	},
+	{
+		"st_id": "515",
+		"st_title": "Ул. Юрия Гагарина ок. Корсо",
+		"st_title_en": "Ul. YUriya Gagarina ok. Korso",
+		"st_lat": "54.764553",
+		"st_long": "56.066325",
+		"direction": "из центра"
+	},
+    {
+		"st_id": "672",
+		"st_title": "Супермаркет \"Матрица\"",
+		"st_title_en": "Supermarket \"Matritsa\"",
+		"st_lat": "54.767731",
+		"st_long": "56.059831",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "254",
+		"st_title": "Супермаркет \"Матрица\"",
+		"st_title_en": "Supermarket \"Matritsa\"",
+		"st_lat": "54.7672818",
+		"st_long": "56.0611020",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "153",
+		"st_title": "Ул. Маршала Жукова",
+		"st_title_en": "Ul. Marshala Jukova",
+		"st_lat": "54.769175",
+		"st_long": "56.057408",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "748",
+		"st_title": "Ул. Маршала Жукова",
+		"st_title_en": "Ul. Marshala Jukova",
+		"st_lat": "54.769426",
+		"st_long": "56.056043",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "800",
+		"st_title": "Ул. Маршала Жукова",
+		"st_title_en": "Ul. Marshala Jukova",
+		"st_lat": "54.769907",
+		"st_long": "56.057844",
+		"direction": "в стор. Кашкадана"
+    },
+    {
+		"st_id": "673",
+		"st_title": "Ул. Маршала Жукова ок. АЗС",
+		"st_title_en": "Ul. Marshala Jukova ok. AZS",
+		"st_lat": "54.770148",
+		"st_long": "56.056475",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "152",
+		"st_title": "Ул. Баязита Бикбая",
+		"st_title_en": "Ul. Bayazita Bikbaya",
+		"st_lat": "54.771963",
+		"st_long": "56.052493",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "674",
+		"st_title": "Ул. Баязита Бикбая",
+		"st_title_en": "Ul. Bayazita Bikbaya",
+		"st_lat": "54.772003",
+		"st_long": "56.051099",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "150",
+		"st_title": "Школа №29",
+		"st_title_en": "SHkola №29",
+		"st_lat": "54.771896",
+		"st_long": "56.049210",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "675",
+		"st_title": "Ул. Сипайловская",
+		"st_title_en": "Ul. Sipaylovskaya",
+		"st_lat": "54.771389",
+		"st_long": "56.048106",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "1970",
+		"st_title": "\"Лента\" на Сипайловской",
+		"st_title_en": "\"Lenta\" na Sipaylovskoy",
+		"st_lat": "54.76447",
+		"st_long": "56.043561",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "8679",
+		"st_title": "\"Лента\" на Сипайловской",
+		"st_title_en": "\"Lenta\" na Sipaylovskoy",
+		"st_lat": "54.764486",
+		"st_long": "56.044446",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "518",
+		"st_title": "Ул. Н. Ковшовой",
+		"st_title_en": "Ul. N. Kovshovoy",
+		"st_lat": "54.764755",
+		"st_long": "56.050648",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "170",
+		"st_title": "Ул. Н. Ковшовой",
+		"st_title_en": "Ul. N. Kovshovoy",
+		"st_lat": "54.764915",
+		"st_long": "56.051406",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "320",
+		"st_title": "АЗС №12",
+		"st_title_en": "AZS №12",
+		"st_lat": "54.76602",
+		"st_long": "56.050487",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "749",
+		"st_title": "АЗС №12",
+		"st_title_en": "AZS №12",
+		"st_lat": "54.766864",
+		"st_long": "56.051345",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "517",
+		"st_title": "Школа №37",
+		"st_title_en": "SHkola №37",
+		"st_lat": "54.764482",
+		"st_long": "56.057847",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "169",
+		"st_title": "Школа №37",
+		"st_title_en": "SHkola №37",
+		"st_lat": "54.764717",
+		"st_long": "56.05619",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "747",
+		"st_title": "Парк \"Кашкадан\"",
+		"st_title_en": "Park \"Kashkadan\"",
+		"st_lat": "54.773707",
+		"st_long": "56.06395",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "746",
+		"st_title": "Парк \"Кашкадан\"",
+		"st_title_en": "Park \"Kashkadan\"",
+		"st_lat": "54.773483",
+		"st_long": "56.064228",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "163",
+		"st_title": "Ул. Максима Рыльского",
+		"st_title_en": "Ul. Maksima Ryilskogo",
+		"st_lat": "54.766957",
+		"st_long": "56.070181",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "514",
+		"st_title": "Ул. Максима Рыльского",
+		"st_title_en": "Ul. Maksima Ryilskogo",
+		"st_lat": "54.768197",
+		"st_long": "56.073076",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "513",
+		"st_title": "Ателье мод",
+		"st_title_en": "Atele mod",
+		"st_lat": "54.770685",
+		"st_long": "56.076684",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "161",
+		"st_title": "Ателье мод",
+		"st_title_en": "Atele mod",
+		"st_lat": "54.771611",
+		"st_long": "56.077317",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "512",
+		"st_title": "Детско-юношеский центр \"Салям\"",
+		"st_title_en": "Detsko-yunosheskiy tsentr \"Salyam\"",
+		"st_lat": "54.772608",
+		"st_long": "56.078582",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "158",
+		"st_title": "Детско-юношеский центр \"Салям\"",
+		"st_title_en": "Detsko-yunosheskiy tsentr \"Salyam\"",
+		"st_lat": "54.77304",
+		"st_long": "56.078632",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "866",
+		"st_title": "Ул. Академика Королева",
+		"st_title_en": "Ul. Akademika Koroleva",
+		"st_lat": "54.773803",
+		"st_long": "56.069166",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "865",
+		"st_title": "Ул. Академика Королева",
+		"st_title_en": "Ul. Akademika Koroleva",
+		"st_lat": "54.774067",
+		"st_long": "56.069295",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "252",
+		"st_title": "Ул. Набережная",
+		"st_title_en": "Ul. Naberejnaya",
+		"st_lat": "54.776243",
+		"st_long": "56.075960",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "671",
+		"st_title": "Ул. Набережная",
+		"st_title_en": "Ul. Naberejnaya",
+		"st_lat": "54.776901",
+		"st_long": "56.075535",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "745",
+		"st_title": "Детская поликлиника №5",
+		"st_title_en": "Detskaya poliklinika №5",
+		"st_lat": "54.777864",
+		"st_long": "56.068532",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "253",
+		"st_title": "Детская поликлиника №5",
+		"st_title_en": "Detskaya poliklinika №5",
+		"st_lat": "54.778655",
+		"st_long": "56.070224",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "744",
+		"st_title": "Ул. Новоженова",
+		"st_title_en": "Ul. Novojenova",
+		"st_lat": "54.7829949",
+		"st_long": "56.0736626",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "465",
+		"st_title": "Ул. Новоженова",
+		"st_title_en": "Ul. Novojenova",
+		"st_lat": "54.782159",
+		"st_long": "56.073339",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "255",
+		"st_title": "Уфимское автотранспортное предприятие №6",
+		"st_title_en": "Ufimskoe avtotransportnoe predpriyatie №6",
+		"st_lat": "54.776664",
+		"st_long": "56.051283",
+		"direction": "в стор. ТРЦ Планета"
+    },
+    {
+		"st_id": "779",
+		"st_title": "Уфимское автотранспортное предприятие №6",
+		"st_title_en": "Ufimskoe avtotransportnoe predpriyatie №6",
+		"st_lat": "54.777197",
+		"st_long": "56.052193",
+		"direction": "в стор. Трамвайной"
+    },
+    {
+		"st_id": "257",
+		"st_title": "Ул. Ватутина",
+		"st_title_en": "Ul. Vatutina",
+		"st_lat": "54.780027",
+		"st_long": "56.052427",
+		"direction": "в стор. ТРЦ Планета"
+    },
+    {
+		"st_id": "780",
+		"st_title": "Ул. Ватутина",
+		"st_title_en": "Ul. Vatutina",
+		"st_lat": "54.780317",
+		"st_long": "56.053298",
+		"direction": "в стор. Трамвайной"
+    },
+    {
+		"st_id": "251",
+		"st_title": "Оздоровительный комплекс \"Сипайловский\"",
+		"st_title_en": "Ozdorovitelnyiy kompleks \"Sipaylovskiy\"",
+		"st_lat": "54.7793657",
+		"st_long": "56.0725630",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "1972",
+		"st_title": "Оздоровительный комплекс \"Сипайловский\"",
+		"st_title_en": "Ozdorovitelnyiy kompleks \"Sipaylovskiy\"",
+		"st_lat": "54.779175",
+		"st_long": "56.072322",
+		"direction": "в центр"
+    }
+]

@@ -1,0 +1,1114 @@
+[
+	{
+		"st_id": "6",
+		"st_title": "Ул. Комарова",
+		"st_title_en": "Ul. Komarova",
+		"st_lat": "54.811589",
+		"st_long": "56.056459",
+		"direction": "из центра"
+	},
+	{
+		"st_id": "714",
+		"st_title": "Ул. Комарова",
+		"st_title_en": "Ul. Komarova",
+		"st_lat": "54.813248",
+		"st_long": "56.056648",
+		"direction": "в центр"
+	},
+	{
+		"st_id": "1014",
+		"st_title": "Школа №109",
+		"st_title_en": "SHkola №109",
+		"st_lat": "54.811368",
+		"st_long": "56.064218",
+		"direction": "в центр"
+	},
+	{
+		"st_id": "347",
+		"st_title": "Школа №109",
+		"st_title_en": "SHkola №109",
+		"st_lat": "54.811225",
+		"st_long": "56.06454",
+		"direction": "из центра"
+	},
+	{
+		"st_id": "804",
+		"st_title": "Больница №13",
+		"st_title_en": "Bolnitsa №13",
+		"st_lat": "54.81398",
+		"st_long": "56.071524",
+		"direction": "в центр"
+    },
+	{
+		"st_id": "348",
+		"st_title": "Больница №13",
+		"st_title_en": "Bolnitsa №13",
+		"st_lat": "54.8139452",
+		"st_long": "56.0718316",
+		"direction": "из центра"
+    },
+	{
+		"st_id": "56",
+		"st_title": "Уфимский топливно-энергетический колледж",
+		"st_title_en": "Ufimskiy toplivno-energeticheskiy kolledj",
+		"st_lat": "54.81806",
+		"st_long": "56.072057",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "717",
+		"st_title": "Уфимский топливно-энергетический колледж",
+		"st_title_en": "Ufimskiy toplivno-energeticheskiy kolledj",
+		"st_lat": "54.818188",
+		"st_long": "56.073716",
+		"direction": "в центр"
+    },
+	{
+		"st_id": "5",
+		"st_title": "Уфимский государственный нефтяной технический университет",
+		"st_title_en": "Ufimskiy gosudarstvennyiy neftyanoy tehnicheskiy universitet",
+		"st_lat": "54.817716",
+		"st_long": "56.057364",
+		"direction": "в центр"
+	},
+	{
+		"st_id": "715",
+		"st_title": "Уфимский государственный нефтяной технический университет",
+		"st_title_en": "Ufimskiy gosudarstvennyiy neftyanoy tehnicheskiy universitet",
+		"st_lat": "54.81626",
+		"st_long": "56.058008",
+		"direction": "из центра"
+	},
+	{
+		"st_id": "1324",
+		"st_title": "Уфимский государственный нефтяной технический университет (УГНТУ) (🚎 4, 15)",
+		"st_title_en": "Ufimskiy gosudarstvennyiy neftyanoy tehnicheskiy universitet (UGNTU)",
+		"st_lat": "54.817706",
+		"st_long": "56.059492",
+		"direction": "в стор. Первомайской"
+	},
+	{
+		"st_id": "4",
+		"st_title": "Парк Победы",
+		"st_title_en": "Park Pobedyi",
+		"st_lat": "54.822696",
+		"st_long": "56.05922",
+		"direction": "в центр"
+	},
+	{
+		"st_id": "874",
+		"st_title": "Парк Победы",
+		"st_title_en": "Park Pobedyi",
+		"st_lat": "54.822616",
+		"st_long": "56.059412",
+		"direction": "из центра"
+	},
+	{
+		"st_id": "719",
+		"st_title": "Стадион \"Нефтяник\"",
+		"st_title_en": "Stadion \"Neftyanik\"",
+		"st_lat": "54.824664",
+		"st_long": "56.062264",
+		"direction": "из центра"
+	},
+	{
+		"st_id": "3",
+		"st_title": "Стадион \"Нефтяник\"",
+		"st_title_en": "Stadion \"Neftyanik\"",
+		"st_lat": "54.8249149",
+		"st_long": "56.0626687",
+		"direction": "в центр"
+	},
+	{
+		"st_id": "2",
+		"st_title": "Ул. Кемеровская",
+		"st_title_en": "Ul. Kemerovskaya",
+		"st_lat": "54.82628",
+		"st_long": "56.064804",
+		"direction": "из центра"
+	},
+	{
+		"st_id": "48",
+		"st_title": "Площадь им. Серго Орджоникидзе",
+		"st_title_en": "Ploschad im. Sergo Ordjonikidze",
+		"st_lat": "54.818684",
+		"st_long": "56.067888",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "718",
+		"st_title": "Площадь им. Серго Орджоникидзе",
+		"st_title_en": "Ploschad im. Sergo Ordjonikidze",
+		"st_lat": "54.819087",
+		"st_long": "56.070844",
+		"direction": "в центр"
+    },
+	{
+		"st_id": "51",
+		"st_title": "🚋 Ул. Конституции",
+		"st_title_en": "🚋 Ul. Konstitutsii",
+		"st_lat": "54.822455",
+		"st_long": "56.06644",
+		"direction": "в стор. ГДК"
+	},
+	{
+		"st_id": "1213",
+		"st_title": "🚋 Ул. Конституции",
+		"st_title_en": "🚋 Ul. Konstitutsii",
+		"st_lat": "54.822789",
+		"st_long": "56.067084",
+		"direction": "в стор. Интернациональной"
+	},
+	{
+		"st_id": "49",
+		"st_title": "Ул. Конституции",
+		"st_title_en": "Ul. Konstitutsii",
+		"st_lat": "54.822044",
+		"st_long": "56.06734",
+		"direction": "в центр"
+	},
+    {
+		"st_id": "1214",
+		"st_title": "🚋 Ул. Максима Горького",
+		"st_title_en": "🚋 Ul. Maksima Gorkogo",
+		"st_lat": "54.825095",
+		"st_long": "56.070635",
+		"direction": "в стор. Интернациональной"
+    },
+    {
+		"st_id": "213",
+		"st_title": "🚋 Ул. Максима Горького",
+		"st_title_en": "🚋 Ul. Maksima Gorkogo",
+		"st_lat": "54.825021",
+		"st_long": "56.070845",
+		"direction": "в стор. ГДК"
+    },
+    {
+		"st_id": "777",
+		"st_title": "Орджоникидзевское РУВД",
+		"st_title_en": "Ordjonikidzevskoe RUVD",
+		"st_lat": "54.82378",
+		"st_long": "56.080568",
+		"direction": "в стор. Первомайской"
+    },
+    {
+		"st_id": "112",
+		"st_title": "Орджоникидзевское РУВД",
+		"st_title_en": "Ordjonikidzevskoe RUVD",
+		"st_lat": "54.8246",
+		"st_long": "56.081576",
+		"direction": "в стор. ТЭЦ-1"
+    },
+    {
+		"st_id": "1161",
+		"st_title": "🚋 Колхозный рынок",
+		"st_title_en": "🚋 Kolhoznyiy ryinok",
+		"st_lat": "54.823497",
+		"st_long": "56.083086",
+		"direction": "в стор. ГДК"
+    },
+    {
+		"st_id": "65",
+		"st_title": "🚋 Колхозный рынок",
+		"st_title_en": "🚋 Kolhoznyiy ryinok",
+		"st_lat": "54.823596",
+		"st_long": "56.083193",
+		"direction": "в стор. Интернациональной"
+    },
+    {
+		"st_id": "113",
+		"st_title": "Ул. Войкова",
+		"st_title_en": "Ul. Voykova",
+		"st_lat": "54.828836",
+		"st_long": "56.086928",
+		"direction": "в стор. ТЭЦ-1"
+    },
+    {
+		"st_id": "778",
+		"st_title": "Ул. Войкова",
+		"st_title_en": "Ul. Voykova",
+		"st_lat": "54.828864",
+		"st_long": "56.086744",
+		"direction": "в стор. Первомайской"
+    },
+    {
+		"st_id": "114",
+		"st_title": "Станция \"Бензин\"",
+		"st_title_en": "Stantsiya \"Benzin\"",
+		"st_lat": "54.832884",
+		"st_long": "56.089364",
+		"direction": "в стор. ТЭЦ-1"
+    },
+    {
+		"st_id": "802",
+		"st_title": "Станция \"Бензин\"",
+		"st_title_en": "Stantsiya \"Benzin\"",
+		"st_lat": "54.833144",
+		"st_long": "56.08922",
+		"direction": "в стор. Первомайской"
+    },
+    {
+		"st_id": "115",
+		"st_title": "Теплоэнергоцентраль-1 (ТЭЦ-1)",
+		"st_title_en": "Teploenergotsentral-1 (TETS-1)",
+		"st_lat": "54.836432",
+		"st_long": "56.089436",
+		"direction": "в стор. Первомайской"
+    },
+    {
+		"st_id": "902",
+		"st_title": "Теплоэнергоцентраль-1 (ТЭЦ-1)",
+		"st_title_en": "Teploenergotsentral-1 (TETS-1)",
+		"st_lat": "54.836521",
+		"st_long": "56.089672",
+		"direction": "конечная"
+    },
+    {
+		"st_id": "727",
+		"st_title": "Торгово-сервисный комплекс  \"Северный\"",
+		"st_title_en": "Torgovo-servisnyiy kompleks  \"Severnyiy\"",
+		"st_lat": "54.82904",
+		"st_long": "56.0931",
+		"direction": "в стор. Химпром"
+    },
+    {
+		"st_id": "726",
+		"st_title": "Торгово-сервисный комплекс \"Северный\"",
+		"st_title_en": "Torgovo-servisnyiy kompleks \"Severnyiy\"",
+		"st_lat": "54.8285",
+		"st_long": "56.09312",
+		"direction": "в стор. ул. Дмитрия Донского"
+    },
+    {
+		"st_id": "729",
+		"st_title": "ГУП \"Институт нефтехимпереработки\" РБ (ГУП ИНХП РБ)",
+		"st_title_en": "GUP \"Institut neftehimpererabotki\" RB (GUP INHP RB)",
+		"st_lat": "54.833813",
+		"st_long": "56.09549",
+		"direction": "в стор. Химпром"
+    },
+    {
+		"st_id": "728",
+		"st_title": "ГУП \"Институт нефтехимпереработки\" РБ (ГУП ИНХП РБ)",
+		"st_title_en": "GUP \"Institut neftehimpererabotki\" RB (GUP INHP RB)",
+		"st_lat": "54.834009",
+		"st_long": "56.095383",
+		"direction": "в стор. ул. Дмитрия Донского"
+    },
+    {
+		"st_id": "270",
+		"st_title": "Химпром",
+		"st_title_en": "Himprom",
+		"st_lat": "54.835527",
+		"st_long": "56.09636",
+		"direction": "конечная"
+    },
+	{
+		"st_id": "1160",
+		"st_title": "🚋 Торгово-сервисный комплекс \"Северный\"",
+		"st_title_en": "🚋 Torgovo-servisnyiy kompleks \"Severnyiy\"",
+		"st_lat": "54.825195",
+		"st_long": "56.091892",
+		"direction": "в стор. ГДК"
+    },
+    {
+		"st_id": "224",
+		"st_title": "🚋 Торгово-сервисный комплекс \"Северный\"",
+		"st_title_en": "🚋 Torgovo-servisnyiy kompleks \"Severnyiy\"",
+		"st_lat": "54.82542",
+		"st_long": "56.092458",
+		"direction": "в стор. Интернациональной"
+    },
+    {
+		"st_id": "1158",
+		"st_title": "🚋 Ул. Севастопольская",
+		"st_title_en": "🚋 Ul. Sevastopolskaya",
+		"st_lat": "54.824152",
+		"st_long": "56.09845",
+		"direction": "в стор. Интернациональной"
+    },
+    {
+		"st_id": "225",
+		"st_title": "Ул. Севастопольская",
+		"st_title_en": "Ul. Sevastopolskaya",
+		"st_lat": "54.823853",
+		"st_long": "56.098879",
+		"direction": "в стор. Больница №17"
+    },
+    {
+		"st_id": "725",
+		"st_title": "Ул. Севастопольская",
+		"st_title_en": "Ul. Sevastopolskaya",
+		"st_lat": "54.824044",
+		"st_long": "56.099104",
+		"direction": "в стор. ТСК \"Северный\""
+    },
+    {
+		"st_id": "1159",
+		"st_title": "🚋 Ул. Севастопольская",
+		"st_title_en": "🚋 Ul. Sevastopolskaya",
+		"st_lat": "54.8235791",
+		"st_long": "56.1001804",
+		"direction": "в стор. ГДК"
+    },
+    {
+		"st_id": "724",
+		"st_title": "Ул. Дмитрия Донского",
+		"st_title_en": "Ul. Dmitriya Donskogo",
+		"st_lat": "54.822375",
+		"st_long": "56.103879",
+		"direction": "в стор. Больница №17"
+    },
+    {
+		"st_id": "1157",
+		"st_title": "🚋 Ул. Дмитрия Донского",
+		"st_title_en": "🚋 Ul. Dmitriya Donskogo",
+		"st_lat": "54.822461",
+		"st_long": "56.104013",
+		"direction": "в стор. ГДК"
+    },
+    {
+		"st_id": "226",
+		"st_title": "Ул. Дмитрия Донского",
+		"st_title_en": "Ul. Dmitriya Donskogo",
+		"st_lat": "54.822542",
+		"st_long": "56.104345",
+		"direction": "в стор. ТСК \"Северный\""
+    },
+    {
+		"st_id": "1156",
+		"st_title": "🚋 Ул. Дмитрия Донского",
+		"st_title_en": "🚋 Ul. Dmitriya Donskogo",
+		"st_lat": "54.822339",
+		"st_long": "56.104763",
+		"direction": "в стор. Интернациональной"
+    },
+    {
+		"st_id": "227",
+		"st_title": "Больница №17",
+		"st_title_en": "Bolnitsa №17",
+		"st_lat": "54.8198232",
+		"st_long": "56.1085556",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "723",
+		"st_title": "Больница №17",
+		"st_title_en": "Bolnitsa №17",
+		"st_lat": "54.8205223",
+		"st_long": "56.1087846",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "1155",
+		"st_title": "🚋 Больница №17",
+		"st_title_en": "🚋 Bolnitsa №17",
+		"st_lat": "54.821082",
+		"st_long": "56.108841",
+		"direction": "в стор. ГДК"
+    },
+    {
+		"st_id": "1154",
+		"st_title": "🚋 Больница №17",
+		"st_title_en": "🚋 Bolnitsa №17",
+		"st_lat": "54.820869",
+		"st_long": "56.109887",
+		"direction": "в стор. Интернациональной"
+    },
+    {
+		"st_id": "276",
+		"st_title": "Ул. Вологодская",
+		"st_title_en": "Ul. Vologodskaya",
+		"st_lat": "54.823523",
+		"st_long": "56.111683",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "798",
+		"st_title": "Ул. Вологодская",
+		"st_title_en": "Ul. Vologodskaya",
+		"st_lat": "54.824075",
+		"st_long": "56.11185",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "799",
+		"st_title": "Хлебозавод №8",
+		"st_title_en": "Hlebozavod №8",
+		"st_lat": "54.826785",
+		"st_long": "56.114135",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "275",
+		"st_title": "Хлебозавод №8",
+		"st_title_en": "Hlebozavod №8",
+		"st_lat": "54.826822",
+		"st_long": "56.114503",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "273",
+		"st_title": "Асфальтобетонный завод (АБЗ)",
+		"st_title_en": "Asfaltobetonnyiy zavod (ABZ)",
+		"st_lat": "54.8329987",
+		"st_long": "56.1176047",
+		"direction": "конечная"
+    },
+    {
+		"st_id": "986",
+		"st_title": "Железнодорожный переезд Тимашевский",
+		"st_title_en": "Jeleznodorojnyiy pereezd Timashevskiy",
+		"st_lat": "54.8281510",
+		"st_long": "56.1195186",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "341",
+		"st_title": "Железнодорожный переезд Тимашевский",
+		"st_title_en": "Jeleznodorojnyiy pereezd Timashevskiy",
+		"st_lat": "54.828158",
+		"st_long": "56.117786",
+		"direction": "в центр"
+    },
+	{
+		"st_id": "1153",
+		"st_title": "🚋 Ул. Кремлевская",
+		"st_title_en": "🚋 Ul. Kremlevskaya",
+		"st_lat": "54.8194482",
+		"st_long": "56.1145604",
+		"direction": "в стор. ГДК"
+    },
+    {
+		"st_id": "228",
+		"st_title": "🚋 Ул. Кремлевская",
+		"st_title_en": "🚋 Ul. Kremlevskaya",
+		"st_lat": "54.8192479",
+		"st_long": "56.1154036",
+		"direction": "в стор. Интернациональной"
+    },
+    {
+		"st_id": "277",
+		"st_title": "Торговый комплекс \"Лопатино\"",
+		"st_title_en": "Torgovyiy kompleks \"Lopatino\"",
+		"st_lat": "54.820172",
+		"st_long": "56.12",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "797",
+		"st_title": "Торговый комплекс \"Лопатино\"",
+		"st_title_en": "Torgovyiy kompleks \"Lopatino\"",
+		"st_lat": "54.820332",
+		"st_long": "56.120327",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "796",
+		"st_title": "Ул. Тургенева",
+		"st_title_en": "Ul. Turgeneva",
+		"st_lat": "54.81958",
+		"st_long": "56.122057",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "278",
+		"st_title": "Ул. Тургенева",
+		"st_title_en": "Ul. Turgeneva",
+		"st_lat": "54.819631",
+		"st_long": "56.122368",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "229",
+		"st_title": "🚋 Уфа - АВТОВАЗ",
+		"st_title_en": "🚋 Ufa - AVTOVAZ",
+		"st_lat": "54.816614",
+		"st_long": "56.124403",
+		"direction": "в стор. ГДК"
+    },
+    {
+		"st_id": [795,583],
+		"st_title": "Уфа - АВТОВАЗ",
+		"st_title_en": "Ufa - AVTOVAZ",
+		"st_lat": "54.816882",
+		"st_long": "56.125097",
+		"direction": "конечная"
+    },
+    {
+		"st_id": "1152",
+		"st_title": "🚋 Уфа - АВТОВАЗ",
+		"st_title_en": "🚋 Ufa - AVTOVAZ",
+		"st_lat": "54.816999",
+		"st_long": "56.123494",
+		"direction": "в стор. Интернациональной"
+    },
+    {
+		"st_id": "54",
+		"st_title": "Ул. Космонавтов",
+		"st_title_en": "Ul. Kosmonavtov",
+		"st_lat": "54.818204",
+		"st_long": "56.063124",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "1212",
+		"st_title": "🚋 Ул. Космонавтов",
+		"st_title_en": "🚋 Ul. Kosmonavtov",
+		"st_lat": "54.8180499",
+		"st_long": "56.0637204",
+		"direction": "в стор. ГДК"
+    },
+    {
+		"st_id": "1211",
+		"st_title": "🚋 Ул. Космонавтов",
+		"st_title_en": "🚋 Ul. Kosmonavtov",
+		"st_lat": "54.816961",
+		"st_long": "56.064376",
+		"direction": "в стор. Интернациональной"
+    },
+	{
+      "st_id": "212",
+      "st_title": "🚋 Республиканский экономический лицей",
+      "st_title_en": "🚋 Respublikanskiy ekonomicheskiy litsey",
+      "st_lat": "54.815588",
+      "st_long": "56.069498",
+		"direction": "в стор. ГДК"
+    },
+    {
+      "st_id": "211",
+      "st_title": "🚋 Ул. Ульяновых",
+      "st_title_en": "🚋 Ul. Ulyanovyih",
+      "st_lat": "54.81488",
+      "st_long": "56.071606",
+		"direction": "в стор. Интернациональной"
+    },
+	{
+		"st_id": "1210",
+		"st_title": "🚋 Больница №13",
+		"st_title_en": "🚋 Bolnitsa №13",
+		"st_lat": "54.814651",
+		"st_long": "56.072738",
+		"direction": "в стор. ГДК"
+    },
+    {
+		"st_id": "210",
+		"st_title": "🚋 Больница №13",
+		"st_title_en": "🚋 Bolnitsa №13",
+		"st_lat": "54.813976",
+		"st_long": "56.074761",
+		"direction": "в стор. Интернациональной"
+    },
+	{
+		"st_id": "209",
+		"st_title": "🚋 Ул. Маяковского",
+		"st_title_en": "🚋 Ul. Mayakovskogo",
+		"st_lat": "54.814475",
+		"st_long": "56.07799",
+		"direction": "в стор. ГДК"
+    },
+    {
+		"st_id": "1291",
+		"st_title": "🚋 Ул. Маяковского",
+		"st_title_en": "🚋 Ul. Mayakovskogo",
+		"st_lat": "54.814645",
+		"st_long": "56.078365",
+		"direction": "в стор. Интернациональной"
+    },
+    {
+		"st_id": "1209",
+		"st_title": "🚋 Кинотеатр \"Победа\"",
+		"st_title_en": "🚋 Kinoteatr \"Pobeda\"",
+		"st_lat": "54.81359",
+		"st_long": "56.082721",
+		"direction": "в стор. Интернациональной"
+    },
+	{
+		"st_id": "208",
+		"st_title": "🚋 Кинотеатр \"Победа\"",
+		"st_title_en": "🚋 Kinoteatr \"Pobeda\"",
+		"st_lat": "54.813717",
+		"st_long": "56.082898",
+		"direction": "в стор. ГДК"
+    },
+    {
+		"st_id": "1208",
+		"st_title": "🚋 Ул. Шумавцова",
+		"st_title_en": "🚋 Ul. SHumavtsova",
+		"st_lat": "54.812273",
+		"st_long": "56.087496",
+		"direction": "в стор. Интернациональной"
+    },
+    {
+		"st_id": "204",
+		"st_title": "🚋 Ул. Интернациональная",
+		"st_title_en": "🚋 Ul. Internatsionalnaya",
+		"st_lat": "54.809715",
+		"st_long": "56.087799",
+		"direction": "конечная"
+    },
+    {
+		"st_id": "206",
+		"st_title": "🚋 Ул. Шумавцова",
+		"st_title_en": "🚋 Ul. SHumavtsova",
+		"st_lat": "54.812285",
+		"st_long": "56.08785",
+		"direction": "в стор. ГДК"
+    },
+    {
+		"st_id": "1293",
+		"st_title": "🚋 Ул. Интернациональная",
+		"st_title_en": "🚋 Ul. Internatsionalnaya",
+		"st_lat": "54.810382",
+		"st_long": "56.088025",
+		"direction": "в стор. ГДК"
+    },
+    {
+		"st_id": "8582",
+		"st_title": "Городской культурно-досуговый центр",
+		"st_title_en": "Gorodskoy kulturno-dosugovyiy tsentr",
+		"st_lat": "54.812622",
+		"st_long": "56.088853",
+		"direction": "в стор. Сипайлово"
+    },
+    {
+		"st_id": "46",
+		"st_title": "Детская библиотека",
+		"st_title_en": "Detskaya biblioteka",
+		"st_lat": "54.817164",
+		"st_long": "56.075688",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "716",
+		"st_title": "Детская библиотека",
+		"st_title_en": "Detskaya biblioteka",
+		"st_lat": "54.817412",
+		"st_long": "56.076191",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "43",
+		"st_title": "Кинотеатр \"Победа\"",
+		"st_title_en": "Kinoteatr \"Pobeda\"",
+		"st_lat": "54.8150421",
+		"st_long": "56.0831727",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "720",
+		"st_title": "Кинотеатр \"Победа\"",
+		"st_title_en": "Kinoteatr \"Pobeda\"",
+		"st_lat": "54.8153040",
+		"st_long": "56.0833142",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "1244",
+		"st_title": "Больница №10",
+		"st_title_en": "Bolnitsa №10",
+		"st_lat": "54.822946",
+		"st_long": "56.072716",
+		"direction": "в стор. Северный АВ"
+    },
+    {
+		"st_id": "1243",
+		"st_title": "Больница №10",
+		"st_title_en": "Bolnitsa №10",
+		"st_lat": "54.822803",
+		"st_long": "56.073439",
+		"direction": "в стор. Колхозный рынок"
+    },
+    {
+		"st_id": "808",
+		"st_title": "Детский сад №80",
+		"st_title_en": "Detskiy sad №80",
+		"st_lat": "54.8211066",
+		"st_long": "56.0777636",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "62",
+		"st_title": "Детский сад №80",
+		"st_title_en": "Detskiy sad №80",
+		"st_lat": "54.82162",
+		"st_long": "56.078564",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "63",
+		"st_title": "Колхозный рынок",
+		"st_title_en": "Kolhoznyiy ryinok",
+		"st_lat": "54.821328",
+		"st_long": "56.082088",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "776",
+		"st_title": "Колхозный рынок",
+		"st_title_en": "Kolhoznyiy ryinok",
+		"st_lat": "54.8213356",
+		"st_long": "56.0847936",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "1354",
+		"st_title": "Колхозный рынок ок. ТРЦ Меркурий",
+		"st_title_en": "Kolhoznyiy ryinok ok. TRTS Merkurij",
+		"st_lat": "54.8218236",
+		"st_long": "56.0854706",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "1161",
+		"st_title": "🚋 Колхозный рынок",
+		"st_title_en": "🚋 Kolhoznyiy ryinok",
+		"st_lat": "54.823497",
+		"st_long": "56.083086",
+		"direction": "в стор. ГДК"
+    },
+    {
+		"st_id": "65",
+		"st_title": "🚋 Колхозный рынок",
+		"st_title_en": "🚋 Kolhoznyiy ryinok",
+		"st_lat": "54.823596",
+		"st_long": "56.083193",
+		"direction": "в стор. Интернациональной"
+    },
+	{
+		"st_id": "42",
+		"st_title": "Городской культурно-досуговый центр",
+		"st_title_en": "Gorodskoy kulturno-dosugovyiy tsentr",
+		"st_lat": "54.813527",
+		"st_long": "56.088423",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "730",
+		"st_title": "Городской культурно-досуговый центр",
+		"st_title_en": "Gorodskoy kulturno-dosugovyiy tsentr",
+		"st_lat": "54.813765",
+		"st_long": "56.088763",
+		"direction": "в центр"
+    },
+	{
+		"st_id": "41",
+		"st_title": "Универмаг \"Первомайский\"",
+		"st_title_en": "Univermag \"Pervomayskiy\"",
+		"st_lat": "54.812392",
+		"st_long": "56.092482",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "721",
+		"st_title": "Универмаг \"Первомайский\"",
+		"st_title_en": "Univermag \"Pervomayskiy\"",
+		"st_lat": "54.812465",
+		"st_long": "56.093338",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "39",
+		"st_title": "Ул. Свободы",
+		"st_title_en": "Ul. Svobodyi",
+		"st_lat": "54.8104509",
+		"st_long": "56.0993927",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "790",
+		"st_title": "Ул. Свободы",
+		"st_title_en": "Ul. Svobodyi",
+		"st_lat": "54.810123",
+		"st_long": "56.101323",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "791",
+		"st_title": "Ул. Кремлевская",
+		"st_title_en": "Ul. Kremlevskaya",
+		"st_lat": "54.80862",
+		"st_long": "56.10685",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "38",
+		"st_title": "Ул. Кремлевская",
+		"st_title_en": "Ul. Kremlevskaya",
+		"st_lat": "54.80884",
+		"st_long": "56.105078",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "489",
+		"st_title": "ОАО \"Уфамолагропром\"",
+		"st_title_en": "OAO \"Ufamolagroprom\"",
+		"st_lat": "54.805372",
+		"st_long": "56.105442",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "1095",
+		"st_title": "ОАО \"Уфамолагропром\"",
+		"st_title_en": "OAO \"Ufamolagroprom\"",
+		"st_lat": "54.805462",
+		"st_long": "56.10592",
+		"direction": "в центр"
+    },
+	{
+		"st_id": "67",
+		"st_title": "Республиканский Башкирско-Турецкий лицей",
+		"st_title_en": "Respublikanskiy Bashkirsko-Turetskiy litsey",
+		"st_lat": "54.8224700",
+		"st_long": "56.0911991",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "775",
+		"st_title": "Республиканский Башкирско-Турецкий лицей",
+		"st_title_en": "Respublikanskiy Bashkirsko-Turetskiy litsey",
+		"st_lat": "54.8221332",
+		"st_long": "56.0911050",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "69",
+		"st_title": "Детский дом №9",
+		"st_title_en": "Detskiy dom №9",
+		"st_lat": "54.8218283",
+		"st_long": "56.0955524",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "774",
+		"st_title": "Детский дом №9",
+		"st_title_en": "Detskiy dom №9",
+		"st_lat": "54.8214231",
+		"st_long": "56.0957070",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "773",
+		"st_title": "Ул. Александра Невского",
+		"st_title_en": "Ul. Aleksandra Nevskogo",
+		"st_lat": "54.818155",
+		"st_long": "56.101452",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "71",
+		"st_title": "Ул. Александра Невского",
+		"st_title_en": "Ul. Aleksandra Nevskogo",
+		"st_lat": "54.818477",
+		"st_long": "56.1018",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "72",
+		"st_title": "Ул. Ивана Франко",
+		"st_title_en": "Ul. Ivana Franko",
+		"st_lat": "54.8140957",
+		"st_long": "56.1069198",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "772",
+		"st_title": "Ул. Ивана Франко",
+		"st_title_en": "Ul. Ivana Franko",
+		"st_lat": "54.8135296",
+		"st_long": "56.1076799",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "771",
+		"st_title": "Ул. Коммунаров",
+		"st_title_en": "Ul. Kommunarov",
+		"st_lat": "54.8125820",
+		"st_long": "56.1124803",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "74",
+		"st_title": "Ул. Коммунаров",
+		"st_title_en": "Ul. Kommunarov",
+		"st_lat": "54.8118950",
+		"st_long": "56.1133120",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "805",
+		"st_title": "Дворец культуры Уфимского моторостроительного производственного объединения (ДК УМПО)",
+		"st_title_en": "Dvorets kulturyi Ufimskogo motorostroitelnogo proizvodstvennogo obyedineniya (DK UMPO)",
+		"st_lat": "54.806191",
+		"st_long": "56.112843",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "36",
+		"st_title": "Дворец культуры Уфимского моторостроительного производственного объединения (ДК УМПО)",
+		"st_title_en": "Dvorets kulturyi Ufimskogo motorostroitelnogo proizvodstvennogo obyedineniya (DK UMPO)",
+		"st_lat": "54.806798",
+		"st_long": "56.112943",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "792",
+		"st_title": "Дворец культуры Уфимского моторостроительного производственного объединения (ДК УМПО)",
+		"st_title_en": "Dvorets kulturyi Ufimskogo motorostroitelnogo proizvodstvennogo obyedineniya (DK UMPO)",
+		"st_lat": "54.807022",
+		"st_long": "56.11413",
+		"direction": "в стор. Кольцевой"
+    },
+    {
+		"st_id": "793",
+		"st_title": "Ул. Черниковская",
+		"st_title_en": "Ul. CHernikovskaya",
+		"st_lat": "54.8102416",
+		"st_long": "56.1165924",
+		"direction": "в стор. Первомайской"
+    },
+    {
+		"st_id": "34",
+		"st_title": "Ул. Черниковская",
+		"st_title_en": "Ul. CHernikovskaya",
+		"st_lat": "54.810203",
+		"st_long": "56.116925",
+		"direction": "в стор. Кольцевой"
+    },
+    {
+		"st_id": "770",
+		"st_title": "Ул. Борисоглебская",
+		"st_title_en": "Ul. Borisoglebskaya",
+		"st_lat": "54.8115679",
+		"st_long": "56.1196822",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "33",
+		"st_title": "Ул. Борисоглебская",
+		"st_title_en": "Ul. Borisoglebskaya",
+		"st_lat": "54.8110793",
+		"st_long": "56.1195426",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "769",
+		"st_title": "Ул. Богдана Хмельницкого",
+		"st_title_en": "Ul. Bogdana Hmelnitskogo",
+		"st_lat": "54.812412",
+		"st_long": "56.123695",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "31",
+		"st_title": "Ул. Богдана Хмельницкого",
+		"st_title_en": "Ul. Bogdana Hmelnitskogo",
+		"st_lat": "54.812017",
+		"st_long": "56.124108",
+		"direction": "из центра"
+    },
+	{
+		"st_id": "1997",
+		"st_title": "Ул. Карима Хакимова",
+		"st_title_en": "Ul. Karima Hakimova",
+		"st_lat": "54.800868",
+		"st_long": "56.117763",
+		"direction": "в центр"
+	},
+	{
+		"st_id": "1996",
+		"st_title": "Ул. Карима Хакимова",
+		"st_title_en": "Ul. Karima Hakimova",
+		"st_lat": "54.800456",
+		"st_long": "56.118514",
+		"direction": "из центра"
+	},
+    {
+		"st_id": "806",
+		"st_title": "Администрация Калининского района",
+		"st_title_en": "Administratsiya Kalininskogo rayona",
+		"st_lat": "54.804313",
+		"st_long": "56.118558",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "79",
+		"st_title": "Администрация Калининского района",
+		"st_title_en": "Administratsiya Kalininskogo rayona",
+		"st_lat": "54.8039",
+		"st_long": "56.119637",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "1994",
+		"st_title": "Ул. Сергея Вострецова",
+		"st_title_en": "Ul. Sergeya Vostretsova",
+		"st_lat": "54.799998",
+		"st_long": "56.12715",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "1995",
+		"st_title": "Ул. Сергея Вострецова",
+		"st_title_en": "Ul. Sergeya Vostretsova",
+		"st_lat": "54.800342",
+		"st_long": "56.127408",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "78",
+		"st_title": "Ул. Суворова",
+		"st_title_en": "Ul. Suvorova",
+		"st_lat": "54.804505",
+		"st_long": "56.124135",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "807",
+		"st_title": "Ул. Суворова",
+		"st_title_en": "Ul. Suvorova",
+		"st_lat": "54.805292",
+		"st_long": "56.127053",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "1093",
+		"st_title": "Уфа Северный АВ",
+		"st_title_en": "Severnyiy KP",
+		"st_lat": "54.8302487",
+		"st_long": "56.0668822",
+		"direction": "из центра"
+    },
+    {
+		"st_id": [496, 1902],
+		"st_title": "Уфа Северный АВ",
+		"st_title_en": "Severnyiy avtovokzal",
+		"st_lat": "54.830412",
+		"st_long": "56.065464",
+		"direction": "автовокзал"
+    },
+    {
+		"st_id": "454",
+		"st_title": "Уфа Северный АВ",
+		"st_title_en": "Severnyiy KP",
+		"st_lat": "54.830415",
+		"st_long": "56.067264",
+		"direction": "в центр"
+    },
+    {
+        "st_id": "59",
+        "st_title": "Ул. Дизельная",
+        "st_title_en": "Ul. Dizelnaya",
+        "st_lat": "54.813637",
+        "st_long": "56.130457",
+		"direction": "в стор. депо"
+    },
+    {
+        "st_id": "26",
+        "st_title": "Троллейбусное депо №2",
+        "st_title_en": "Trolleybusnoe depo №2",
+        "st_lat": "54.815095",
+        "st_long": "56.129525",
+		"direction": "в стор. депо"
+    }
+]

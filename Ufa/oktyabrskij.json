@@ -1,0 +1,602 @@
+[
+    {
+		"st_id": "2828",
+		"st_title": "УПАТП №3",
+		"st_title_en": "UPATP №3",
+		"st_lat": "54.748616",
+		"st_long": "55.980297",
+		"direction": "УПАТП №3"
+    },
+	{
+		"st_id": "857",
+		"st_title": "Уфа Южный АВ",
+		"st_title_en": "YUjnyiy avtovokzal",
+		"st_lat": "54.74913",
+		"st_long": "55.98657",
+		"direction": "в стор. п-та Октября"
+    },
+    {
+		"st_id": "1196",
+		"st_title": "🚋 Уфа Южный АВ",
+		"st_title_en": "🚋 YUjnyiy avtovokzal",
+		"st_lat": "54.750205",
+		"st_long": "55.985652",
+		"direction": "в стор. ТК \"Центральный\""
+    },
+    {
+		"st_id": [6226,30],
+		"st_title": "Уфа Южный АВ",
+		"st_title_en": "YUjnyiy AV",
+		"st_lat": "54.750272",
+		"st_long": "55.984528",
+		"direction": "в стор. Затона"
+    },
+    {
+		"st_id": [1470,1197],
+		"st_title": "Уфа Южный АВ",
+		"st_title_en": "YUjnyiy avtovokzal",
+		"st_lat": "54.750854",
+		"st_long": "55.98683",
+		"direction": "у входа"
+    },
+    {
+		"st_id": [1739,1680,609],
+		"st_title": "Уфа Южный АВ",
+		"st_title_en": "YUjnyiy Avtovokzal MG",
+		"st_lat": "54.750857",
+		"st_long": "55.985494",
+		"direction": "Межгород"
+    },
+    {
+		"st_id": "608",
+		"st_title": "Уфа Южный АВ",
+		"st_title_en": "YUjnyiy avtovokzal",
+		"st_lat": "54.751575",
+		"st_long": "55.9881",
+		"direction": "в стор. Дворец Спорта"
+    },
+	{
+		"st_id": "141",
+		"st_title": "Зеленая гора",
+		"st_title_en": "Zelenaya gora",
+		"st_lat": "54.749806",
+		"st_long": "55.973336",
+		"direction": "в стор. южного автовокзала"
+    },
+    {
+		"st_id": "830",
+		"st_title": "Зеленая гора",
+		"st_title_en": "Zelenaya gora",
+		"st_lat": "54.750406",
+		"st_long": "55.973472",
+		"direction": "в стор. Затона"
+    },
+	{
+		"st_id": "142",
+		"st_title": "Речная",
+		"st_title_en": "Rechnaya",
+		"st_lat": "54.753835",
+		"st_long": "55.969702",
+		"direction": "в стор. южного автовокзалаа"
+    },
+    {
+		"st_id": "831",
+		"st_title": "Речная",
+		"st_title_en": "Rechnaya",
+		"st_lat": "54.75466",
+		"st_long": "55.969868",
+		"direction": "в стор. Затона"
+    },
+    {
+        "st_id": "376",
+        "st_title": "Парк культуры и отдыха им. М. Гафури (ПКиО \"им. М. Гафури\")",
+        "st_title_en": "Park kulturyi i otdyiha im. M. Gafuri (PKiO \"im. M. Gafuri\")",
+        "st_lat": "54.774384",
+        "st_long": "56.01899",
+		"direction": "из центра"
+    },
+    {
+        "st_id": "615",
+        "st_title": "Парк культуры и отдыха им. М. Гафури (ПКиО \"им. М. Гафури\")",
+        "st_title_en": "Park kulturyi i otdyiha im. M. Gafuri (PKiO \"im. M. Gafuri\")",
+        "st_lat": "54.774803",
+        "st_long": "56.019306",
+		"direction": "в центр"
+    },
+    {
+        "st_id": "664",
+        "st_title": "Ул. Кольская",
+        "st_title_en": "Ul. Kolskaya",
+        "st_lat": "54.776173",
+        "st_long": "56.034904",
+		"direction": "в центр"
+    },
+    {
+        "st_id": "191",
+        "st_title": "Ул. Кольская",
+        "st_title_en": "Ul. Kolskaya",
+        "st_lat": "54.77809",
+        "st_long": "56.03609",
+		"direction": "из центра"
+    },
+    {
+        "st_id": "193",
+        "st_title": "Бульвар Тюлькина",
+        "st_title_en": "Bulvar Tyulkina",
+        "st_lat": "54.768938",
+        "st_long": "56.030831",
+		"direction": "в центр"
+    },
+    {
+        "st_id": "192",
+        "st_title": "Глумилино",
+        "st_title_en": "Glumilino",
+        "st_lat": "54.770192",
+        "st_long": "56.032907",
+		"direction": "из центра"
+    },
+    {
+        "st_id": "663",
+        "st_title": "Глумилино",
+        "st_title_en": "Glumilino",
+        "st_lat": "54.770978",
+        "st_long": "56.032928",
+		"direction": "в центр"
+    },
+    {
+        "st_id": "662",
+        "st_title": "Кинотеатр \"Искра\"",
+        "st_title_en": "Kinoteatr \"Iskra\"",
+        "st_lat": "54.7658515",
+        "st_long": "56.0265253",
+		"direction": "в центр"
+    },
+    {
+        "st_id": "194",
+        "st_title": "Кинотеатр \"Искра\"",
+        "st_title_en": "Kinoteatr \"Iskra\"",
+        "st_lat": "54.765713",
+        "st_long": "56.026846",
+		"direction": "из центра"
+    },
+    {
+        "st_id": "334",
+        "st_title": "Южный проезд",
+        "st_title_en": "YUjnyiy proezd",
+        "st_lat": "54.769307",
+        "st_long": "56.024537",
+		"direction": "в стор. пр-та Октября"
+    },
+    {
+        "st_id": "707",
+        "st_title": "Южный проезд",
+        "st_title_en": "YUjnyiy proezd",
+        "st_lat": "54.769011",
+        "st_long": "56.024794",
+		"direction": "в стор. Комсомольской"
+    },
+    {
+        "st_id": "1207",
+        "st_title": "🚋 Госцирк",
+        "st_title_en": "🚋 Gostsirk",
+        "st_lat": "54.766714",
+        "st_long": "56.017493",
+		"direction": "в центр"
+    },
+    {
+        "st_id": "843",
+        "st_title": "Госцирк",
+        "st_title_en": "Gostsirk",
+        "st_lat": "54.76638",
+        "st_long": "56.01818",
+		"direction": "в центр"
+    },
+    {
+        "st_id": "21",
+        "st_title": "Госцирк",
+        "st_title_en": "Gostsirk",
+        "st_lat": "54.767567",
+        "st_long": "56.02038",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "190",
+		"st_title": "Кинотеатр \"Смена\"",
+		"st_title_en": "Kinoteatr \"Smena\"",
+		"st_lat": "54.780372",
+		"st_long": "56.036692",
+		"direction": "в центр"
+    },
+    {
+        "st_id": "868",
+        "st_title": "Кинотеатр \"Смена\"",
+        "st_title_en": "Kinoteatr \"Smena\"",
+        "st_lat": "54.781005",
+        "st_long": "56.038106",
+		"direction": "в стор. Сипайлово"
+    },
+    {
+        "st_id": "1707",
+        "st_title": "Кинотеатр \"Смена\"",
+        "st_title_en": "Kinoteatr \"Smena\"",
+        "st_lat": "54.781512",
+        "st_long": "56.036603",
+		"direction": "в стор. пр-та Октября"
+    },
+    {
+        "st_id": "666",
+        "st_title": "Кинотеатр \"Смена\"",
+        "st_title_en": "Kinoteatr \"Smena\"",
+        "st_lat": "54.78293",
+        "st_long": "56.03828",
+		"direction": "в стор. Трамвайной"
+    },
+    {
+        "st_id": "20",
+        "st_title": "Совет городского округа город Уфа (Горсовет)",
+        "st_title_en": "Sovet gorodskogo okruga gorod Ufa (Gorsovet)",
+        "st_lat": "54.772918",
+        "st_long": "56.027192",
+		"direction": "из центра"
+    },
+    {
+        "st_id": "708",
+        "st_title": "Совет городского округа город Уфа (Горсовет)",
+        "st_title_en": "Sovet gorodskogo okruga gorod Ufa (Gorsovet)",
+        "st_lat": "54.77318",
+        "st_long": "56.026537",
+		"direction": "в центр"
+    },
+    {
+        "st_id": "377",
+        "st_title": "Центр глазной хирургии",
+        "st_title_en": "TSentr glaznoy hirurgii",
+        "st_lat": "54.768995",
+        "st_long": "56.012165",
+		"direction": "из центра"
+    },
+    {
+        "st_id": "614",
+        "st_title": "Центр глазной хирургии",
+        "st_title_en": "TSentr glaznoy hirurgii",
+        "st_lat": "54.769484",
+        "st_long": "56.012276",
+		"direction": "в центр"
+    },
+    {
+        "st_id": "1204",
+        "st_title": "🚋 Лесопарковый проезд",
+        "st_title_en": "🚋 Lesoparkovyiy proezd",
+        "st_lat": "54.766944",
+        "st_long": "56.010823",
+		"direction": "в центр"
+    },
+    {
+        "st_id": "1205",
+        "st_title": "🚋 Лесопарковый проезд",
+        "st_title_en": "🚋 Lesoparkovyiy proezd",
+        "st_lat": "54.766981",
+        "st_long": "56.011228",
+		"direction": "из центра"
+    },
+    {
+        "st_id": "223",
+        "st_title": "Лесопарковый проезд",
+        "st_title_en": "Lesoparkovyiy proezd",
+        "st_lat": "54.766152",
+        "st_long": "56.009311",
+		"direction": "из центра"
+    },
+    {
+        "st_id": "613",
+        "st_title": "Лесопарковый проезд",
+        "st_title_en": "Lesoparkovyiy proezd",
+        "st_lat": "54.766344",
+        "st_long": "56.009084",
+		"direction": "в центр"
+    },
+    {
+        "st_id": "844",
+        "st_title": "Железнодорожная больница",
+        "st_title_en": "Jeleznodorojnaya bolnitsa",
+        "st_lat": "54.762782",
+        "st_long": "56.013387",
+		"direction": "в центр"
+    },
+    {
+        "st_id": "22",
+        "st_title": "Железнодорожная больница",
+        "st_title_en": "Jeleznodorojnaya bolnitsa",
+        "st_lat": "54.762686",
+        "st_long": "56.014126",
+		"direction": "из центра"
+    },
+    {
+        "st_id": "23",
+        "st_title": "Ул. Шафиева",
+        "st_title_en": "Ul. SHafieva",
+        "st_lat": "54.761132",
+        "st_long": "56.010184",
+		"direction": "в стор. Рихарда Зорге"
+    },
+    {
+        "st_id": "869",
+        "st_title": "Ул. Шафиева",
+        "st_title_en": "Ul. SHafieva",
+        "st_lat": "54.761003",
+        "st_long": "56.009447",
+		"direction": "в стор. пр-та Октября"
+    },
+    {
+        "st_id": "86",
+        "st_title": "Юношеская библиотека",
+        "st_title_en": "YUnosheskaya biblioteka",
+        "st_lat": "54.759111",
+        "st_long": "56.009579",
+		"direction": "из центра"
+    },
+    {
+        "st_id": "688",
+        "st_title": "Юношеская библиотека",
+        "st_title_en": "YUnosheskaya biblioteka",
+        "st_lat": "54.760095",
+        "st_long": "56.01005",
+		"direction": "в центр"
+    },
+    {
+        "st_id": "536",
+        "st_title": "Ул. Рихарда Зорге",
+        "st_title_en": "Ul. Riharda Zorge",
+        "st_lat": "54.763326",
+        "st_long": "56.002943",
+		"direction": "из центра"
+    },
+    {
+        "st_id": "24",
+        "st_title": "Ул. Рихарда Зорге",
+        "st_title_en": "Ul. Riharda Zorge",
+        "st_lat": "54.763464",
+        "st_long": "56.002588",
+		"direction": "в центр"
+    },
+    {
+        "st_id": "1202",
+        "st_title": "🚋 Ул. Рихарда Зорге",
+        "st_title_en": "🚋 Ul. Riharda Zorge",
+        "st_lat": "54.763613",
+        "st_long": "56.002771",
+		"direction": "из центра"
+    },
+    {
+        "st_id": "1203",
+        "st_title": "🚋 Ул. Рихарда Зорге",
+        "st_title_en": "🚋 Ul. Riharda Zorge",
+        "st_lat": "54.763686",
+        "st_long": "56.002575",
+		"direction": "в центр"
+    },
+    {
+        "st_id": "25",
+        "st_title": "Дворец Спорта",
+        "st_title_en": "Dvorets Sporta",
+        "st_lat": "54.75852",
+        "st_long": "55.997981",
+		"direction": "в стор. пр-та Октября"
+    },
+    {
+        "st_id": "612",
+        "st_title": "Дворец Спорта",
+        "st_title_en": "Dvorets Sporta",
+        "st_lat": "54.758124",
+        "st_long": "55.996196",
+		"direction": "из центра"
+    },
+    {
+        "st_id": "2219",
+        "st_title": "Дворец Спорта",
+        "st_title_en": "Dvorets Sporta",
+        "st_lat": "54.758648",
+        "st_long": "55.996588",
+		"direction": "в центр"
+    },
+    {
+        "st_id": [611,1200],
+        "st_title": "🚋 Дворец Спорта",
+        "st_title_en": "🚋 Dvorets Sporta",
+        "st_lat": "54.758811",
+        "st_long": "55.996666",
+		"direction": "из центра"
+    },
+    {
+        "st_id": "1201",
+        "st_title": "Дворец Спорта",
+        "st_title_en": "Dvorets Sporta",
+        "st_lat": "54.759502",
+        "st_long": "55.997690",
+		"direction": "у сквера"
+    },
+    {
+        "st_id": "621",
+        "st_title": "Спортивная",
+        "st_title_en": "Sportivnaya",
+        "st_lat": "54.755236",
+        "st_long": "56.005739",
+		"direction": "в стор. Менделеева"
+    },
+    {
+        "st_id": "70",
+        "st_title": "Спортивная",
+        "st_title_en": "Sportivnaya",
+        "st_lat": "54.755448",
+        "st_long": "56.004139",
+		"direction": "в центр"
+    },
+    {
+        "st_id": "657",
+        "st_title": "Спортивная",
+        "st_title_en": "Sportivnaya",
+        "st_lat": "54.756144",
+        "st_long": "56.005896",
+		"direction": "из центра"
+    },
+    {
+        "st_id": "539",
+        "st_title": "Спортивная",
+        "st_title_en": "Sportivnaya",
+        "st_lat": "54.756536",
+        "st_long": "56.003497",
+		"direction": "в стор. Рихарда Зорге"
+    },
+    {
+        "st_id": "199",
+        "st_title": "Ул. Лесотехникума",
+        "st_title_en": "Ul. Lesotehnikuma",
+        "st_lat": "54.761481",
+        "st_long": "56.022566",
+		"direction": "в стор. Менделеева"
+    },
+    {
+        "st_id": "10097",
+        "st_title": "Администрация Октябрьского района",
+        "st_title_en": "Administratsiya Oktyabrskogo rayona",
+        "st_lat": "54.762222",
+        "st_long": "56.021256",
+		"direction": "в центр"
+    },
+    {
+        "st_id": "661",
+        "st_title": "Ул. Лесотехникума",
+        "st_title_en": "Ul. Lesotehnikuma",
+        "st_lat": "54.7630572",
+        "st_long": "56.0233758",
+		"direction": "из центра"
+    },
+    {
+        "st_id": "687",
+        "st_title": "Ул. Комсомольская",
+        "st_title_en": "Ul. Komsomolskaya",
+        "st_lat": "54.7593678",
+        "st_long": "56.0147055",
+		"direction": "в центр"
+    },
+    {
+        "st_id": "333",
+        "st_title": "Ул. Комсомольская",
+        "st_title_en": "Ul. Komsomolskaya",
+        "st_lat": "54.7594535",
+        "st_long": "56.0157411",
+		"direction": "из центра"
+    },
+    {
+        "st_id": "200",
+        "st_title": "Ул. Энтузиастов",
+        "st_title_en": "Ul. Entuziastov",
+        "st_lat": "54.757614",
+        "st_long": "56.024291",
+		"direction": "в стор. Менделеева"
+    },
+    {
+        "st_id": "870",
+        "st_title": "Ул. Энтузиастов",
+        "st_title_en": "Ul. Entuziastov",
+        "st_lat": "54.758678",
+        "st_long": "56.024484",
+		"direction": "в стор. Комсомольской"
+    },
+    {
+        "st_id": "4453",
+        "st_title": "ул. Давлекильдеева",
+        "st_title_en": "ul. Davlekildeeva",
+        "st_lat": "54.758672",
+        "st_long": "56.030627",
+		"direction": "в стор. Комсомольской"
+    },
+	{
+		"st_id": "9793",
+		"st_title": "ТРЦ Планета",
+		"st_title_en": "TRTS Planeta (v Sipaylovo)",
+		"st_lat": "54.756862",
+		"st_long": "56.033192",
+		"direction": "в Сипайлово"
+    },
+    {
+		"st_id": "9794",
+		"st_title": "ТРЦ Планета",
+		"st_title_en": "TRTS Planeta (v TSentr)",
+		"st_lat": "54.756942",
+		"st_long": "56.033353",
+		"direction": "в центр"
+    },
+    {
+        "st_id": "702",
+        "st_title": "Уфимские городские электросети",
+        "st_title_en": "Ufimskie gorodskie elektroseti",
+        "st_lat": "54.7571679",
+        "st_long": "56.0116071",
+		"direction": "в центр"
+    },
+    {
+        "st_id": "332",
+        "st_title": "Уфимские городские электросети",
+        "st_title_en": "Ufimskie gorodskie elektroseti",
+        "st_lat": "54.7564666",
+        "st_long": "56.0111535",
+		"direction": "из центра"
+    },
+    {
+        "st_id": "678",
+        "st_title": "Ул. Ростовская",
+        "st_title_en": "Ul. Rostovskaya",
+        "st_lat": "54.7530647",
+        "st_long": "56.0116818",
+		"direction": "в стор. пр-та Октября"
+    },
+    {
+        "st_id": "73",
+        "st_title": "Ул. Ростовская",
+        "st_title_en": "Ul. Rostovskaya",
+        "st_lat": "54.7529863",
+        "st_long": "56.0111894",
+		"direction": "в стор. Менделеева"
+    },
+    {
+        "st_id": "331",
+        "st_title": "Центр красоты",
+        "st_title_en": "TSentr krasotyi",
+        "st_lat": "54.7503487",
+        "st_long": "56.0040876",
+		"direction": "из центра"
+    },
+    {
+        "st_id": "701",
+        "st_title": "Центр красоты",
+        "st_title_en": "TSentr krasotyi",
+        "st_lat": "54.7497983",
+        "st_long": "56.0031259",
+		"direction": "в центр"
+    },
+    {
+        "st_id": [610,1198,1199],
+        "st_title": "Башкирский медицинский колледж",
+        "st_title_en": "Bashkirskiy meditsinskiy kolledj",
+        "st_lat": "54.754847",
+        "st_long": "55.991623",
+		"direction": "у трамвая"
+    },
+    {
+        "st_id": "27",
+        "st_title": "Башкирский медицинский колледж",
+        "st_title_en": "Bashkirskiy meditsinskiy kolledj",
+        "st_lat": "54.754507",
+        "st_long": "55.991737",
+		"direction": "из центра"
+    },
+    {
+        "st_id": "378",
+        "st_title": "Клиника Башкирского государственного медицинского университета (Клиника БГМУ)",
+        "st_title_en": "Klinika Bashkirskogo gosudarstvennogo meditsinskogo universiteta (Klinika BGMU)",
+        "st_lat": "54.765899",
+        "st_long": "55.995752",
+		"direction": "конечная"
+    }
+]

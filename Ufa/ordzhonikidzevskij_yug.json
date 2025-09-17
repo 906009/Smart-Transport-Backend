@@ -1,0 +1,402 @@
+[
+	{
+		"st_id": "713",
+		"st_title": "Парк им. Калинина",
+		"st_title_en": "Park im. Kalinina",
+		"st_lat": "54.799734",
+		"st_long": "56.04179",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "14",
+		"st_title": "Парк им. Калинина",
+		"st_title_en": "Park im. Kalinina",
+		"st_lat": "54.800363",
+		"st_long": "56.043363",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "712",
+		"st_title": "Городской Дворец культуры",
+		"st_title_en": "Gorodskoy Dvorets kulturyi",
+		"st_lat": "54.79542",
+		"st_long": "56.03817",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "16",
+		"st_title": "Городской Дворец культуры",
+		"st_title_en": "Gorodskoy Dvorets kulturyi",
+		"st_lat": "54.795001",
+		"st_long": "56.038639",
+		"direction": "из центра"
+    },
+	{
+		"st_id": "243",
+		"st_title": "🚋 Парк им. Калинина",
+		"st_title_en": "🚋 Park im. Kalinina",
+		"st_lat": "54.796165",
+		"st_long": "56.039507",
+		"direction": "в стор. Интернациональной"
+	},
+    {
+		"st_id": "886",
+		"st_title": "Городской Дворец культуры (27)",
+		"st_title_en": "Gorodskoy Dvorets kulturyi (27)",
+		"st_lat": "54.796271",
+		"st_long": "56.041371",
+		"direction": "в Черниковку"
+    },
+    {
+		"st_id": "17",
+		"st_title": "Бульвар Славы",
+		"st_title_en": "Bulvar Slavyi",
+		"st_lat": "54.789033",
+		"st_long": "56.035964",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "711",
+		"st_title": "Бульвар Славы",
+		"st_title_en": "Bulvar Slavyi",
+		"st_lat": "54.78942",
+		"st_long": "56.03552",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "985",
+		"st_title": "🚎 Театр кукол",
+		"st_title_en": "🚎 Teatr kukol",
+		"st_lat": "54.783029",
+		"st_long": "56.033873",
+		"direction": "в стор. мкр. Белореченский"
+    },
+    {
+		"st_id": "18",
+		"st_title": "Театр кукол",
+		"st_title_en": "Teatr kukol",
+		"st_lat": "54.783483",
+		"st_long": "56.033453",
+		"direction": "из центра"
+    },
+    {
+		"st_id": [1309,710],
+		"st_title": "Театр кукол",
+		"st_title_en": "Teatr kukol",
+		"st_lat": "54.783533",
+		"st_long": "56.032682",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "19",
+		"st_title": "Башкирская Республиканская гимназия-интернат №1 им. Рами Гарипова",
+		"st_title_en": "Bashkirskaya Respublikanskaya gimnaziya-internat №1 im. Rami Garipova",
+		"st_lat": "54.77712",
+		"st_long": "56.029744",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "709",
+		"st_title": "Башкирская Республиканская гимназия-интернат №1 им. Рами Гарипова",
+		"st_title_en": "Bashkirskaya Respublikanskaya gimnaziya-internat №1 im. Rami Garipova",
+		"st_lat": "54.777867",
+		"st_long": "56.030799",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "387",
+		"st_title": "Ул. Депутатская",
+		"st_title_en": "Ul. Deputatskaya",
+		"st_lat": "54.79302",
+		"st_long": "56.04244",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "875",
+		"st_title": "Ул. Депутатская",
+		"st_title_en": "Ul. Deputatskaya",
+		"st_lat": "54.79263",
+		"st_long": "56.042552",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "490",
+		"st_title": "Ул. Шота Руставели",
+		"st_title_en": "Ul. SHota Rustaveli",
+		"st_lat": "54.791603",
+		"st_long": "56.045877",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "668",
+		"st_title": "Ул. Шота Руставели",
+		"st_title_en": "Ul. SHota Rustaveli",
+		"st_lat": "54.791642",
+		"st_long": "56.045663",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "1390",
+		"st_title": "Ул. Адмирала Макарова",
+		"st_title_en": "Ul. Admirala Makarova",
+		"st_lat": "54.792921",
+		"st_long": "56.052728",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "669",
+		"st_title": "Ул. Адмирала Макарова",
+		"st_title_en": "Ul. Admirala Makarova",
+		"st_lat": "54.7927482",
+		"st_long": "56.0525407",
+		"direction": "из центра"
+    },
+    {
+		"st_id": [264,1227],
+		"st_title": "ОАО \"Башмебель\"",
+		"st_title_en": "OAO \"Bashmebel\"",
+		"st_lat": "54.797156",
+		"st_long": "56.056036",
+		"direction": "в центр"
+    },
+    {
+		"st_id": [885,1228],
+		"st_title": "ОАО \"Башмебель\"",
+		"st_title_en": "OAO \"Bashmebel\"",
+		"st_lat": "54.7968",
+		"st_long": "56.056041",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "1741",
+		"st_title": "ул. Адмирала Макарова",
+		"st_title_en": "ul. Admirala Makarova",
+		"st_lat": "54.795336",
+		"st_long": "56.056586",
+		"direction": "в стор. Трамвайной"
+    },
+    {
+		"st_id": "1740",
+		"st_title": "Троллейбусное депо №1",
+		"st_title_en": "Trolleybusnoe depo №1",
+		"st_lat": "54.7927",
+		"st_long": "56.056009",
+		"direction": "в стор. Трамвайной"
+    },
+    {
+        "st_id": "667",
+        "st_title": "Главархитектура города",
+        "st_title_en": "Glavarhitektura goroda",
+        "st_lat": "54.7868311",
+        "st_long": "56.0396221",
+		"direction": "в центр"
+    },
+    {
+        "st_id": "386",
+        "st_title": "Главархитектура города",
+        "st_title_en": "Glavarhitektura goroda",
+        "st_lat": "54.78789",
+        "st_long": "56.040535",
+		"direction": "из центра"
+    },
+    {
+        "st_id": "867",
+        "st_title": "Художественно-промышленный колледж",
+        "st_title_en": "Hudojestvenno-promyishlennyiy kolledj",
+        "st_lat": "54.785162",
+        "st_long": "56.049185",
+		"direction": "в центр"
+    },
+    {
+        "st_id": "339",
+        "st_title": "Художественно-промышленный колледж",
+        "st_title_en": "Hudojestvenno-promyishlennyiy kolledj",
+        "st_lat": "54.785172",
+        "st_long": "56.05021",
+		"direction": "из центра"
+    },
+    {
+        "st_id": "258",
+        "st_title": "Завод \"Авиаспецмонтаж\"",
+        "st_title_en": "Zavod \"Aviaspetsmontaj\"",
+        "st_lat": "54.786189",
+        "st_long": "56.053652",
+		"direction": "в Сипайлово"
+    },
+    {
+        "st_id": "781",
+        "st_title": "Завод \"Авиаспецмонтаж\"",
+        "st_title_en": "Zavod \"Aviaspetsmontaj\"",
+        "st_lat": "54.785412",
+        "st_long": "56.053688",
+		"direction": "из Сипайлово"
+    },
+    {
+        "st_id": "259",
+        "st_title": "Ул. Чайковского",
+        "st_title_en": "Ul. CHaykovskogo",
+        "st_lat": "54.787809",
+        "st_long": "56.056347",
+		"direction": "в Сипайлово"
+    },
+    {
+        "st_id": "782",
+        "st_title": "Ул. Чайковского",
+        "st_title_en": "Ul. CHaykovskogo",
+        "st_lat": "54.788018",
+        "st_long": "56.05721",
+		"direction": "в стор. Трамвайной"
+    },
+    {
+        "st_id": "261",
+        "st_title": "Фанерный комбинат",
+        "st_title_en": "Fanernyiy kombinat",
+        "st_lat": "54.79198",
+        "st_long": "56.061242",
+		"direction": "в стор. Трамвайной"
+    },
+    {
+        "st_id": "783",
+        "st_title": "Фанерный комбинат",
+        "st_title_en": "Fanernyiy kombinat",
+        "st_lat": "54.792607",
+        "st_long": "56.061542",
+		"direction": "в Сипайлово"
+    },
+    {
+        "st_id": "784",
+        "st_title": "Вторая площадка УМПО",
+        "st_title_en": "Vtoraya ploschadka UMPO",
+        "st_lat": "54.79661",
+        "st_long": "56.065613",
+		"direction": "в Сипайлово"
+    },
+    {
+        "st_id": "785",
+        "st_title": "Вторая площадка УМПО",
+        "st_title_en": "Vtoraya ploschadka UMPO",
+        "st_lat": "54.796502",
+        "st_long": "56.06582",
+		"direction": "в стор. Трамвайной"
+    },
+    {
+        "st_id": [239,1229],
+        "st_title": "Вторая площадка УМПО",
+        "st_title_en": "Vtoraya ploschadka UMPO",
+        "st_lat": "54.797677",
+        "st_long": "56.06619",
+		"direction": "в центр"
+    },
+    {
+        "st_id": [882,1230],
+        "st_title": "Вторая площадка УМПО",
+        "st_title_en": "Vtoraya ploschadka UMPO",
+        "st_lat": "54.797427",
+        "st_long": "56.066238",
+		"direction": "из центра"
+    },
+	{
+        "st_id": "787",
+        "st_title": "Башкирские художественные промыслы \"Агидель\" (БХП \"Агидель\")",
+        "st_title_en": "Bashkirskie hudojestvennyie promyislyi \"Agidel\" (BHP \"Agidel\")",
+        "st_lat": "54.798722",
+        "st_long": "56.077577",
+		"direction": "в Черниковку"
+    },
+    {
+        "st_id": [238,1231],
+        "st_title": "Башкирские художественные промыслы \"Агидель\" (БХП \"Агидель\")",
+        "st_title_en": "Bashkirskie hudojestvennyie promyislyi \"Agidel\" (BHP \"Agidel\")",
+        "st_lat": "54.798333",
+        "st_long": "56.077974",
+		"direction": "в центр"
+    },
+    {
+        "st_id": [881,1232],
+        "st_title": "Башкирские художественные промыслы \"Агидель\" (БХП \"Агидель\")",
+        "st_title_en": "Bashkirskie hudojestvennyie promyislyi \"Agidel\" (BHP \"Agidel\")",
+        "st_lat": "54.798079",
+        "st_long": "56.078022",
+		"direction": "из центра"
+    },
+    {
+        "st_id": "803",
+        "st_title": "ОАО \"Амстар\"",
+        "st_title_en": "OAO \"Amstar\"",
+        "st_lat": "54.796053",
+        "st_long": "56.076662",
+		"direction": "в центр"
+    },
+    {
+        "st_id": "412",
+        "st_title": "ОАО \"Амстар\"",
+        "st_title_en": "OAO \"Amstar\"",
+        "st_lat": "54.796378",
+        "st_long": "56.076924",
+		"direction": "из центра"
+    },
+    {
+        "st_id": "267",
+        "st_title": "Домостроительный комбинат",
+        "st_title_en": "Domostroitelnyiy kombinat",
+        "st_lat": "54.801499",
+        "st_long": "56.079967",
+		"direction": "в Черниковку"
+    },
+    {
+        "st_id": "788",
+        "st_title": "Домостроительный комбинат",
+        "st_title_en": "Domostroitelnyiy kombinat",
+        "st_lat": "54.801838",
+        "st_long": "56.079704",
+		"direction": "из Черниковки"
+    },
+    {
+        "st_id": "269",
+        "st_title": "Железобетонный завод",
+        "st_title_en": "Jelezobetonnyiy zavod",
+        "st_lat": "54.80624",
+        "st_long": "56.083984",
+		"direction": "в Черниковку"
+    },
+    {
+        "st_id": "789",
+        "st_title": "Железобетонный завод",
+        "st_title_en": "Jelezobetonnyiy zavod",
+        "st_lat": "54.806245",
+        "st_long": "56.083379",
+		"direction": "из Черниковки"
+    },
+    {
+        "st_id": "296",
+        "st_title": "Больница №18",
+        "st_title_en": "Bolnitsa №18",
+        "st_lat": "54.779945",
+        "st_long": "56.023014",
+		"direction": "в центр"
+    },
+    {
+        "st_id": "374",
+        "st_title": "Больница №18",
+        "st_title_en": "Bolnitsa №18",
+        "st_lat": "54.779889",
+        "st_long": "56.023463",
+		"direction": "из центра"
+    },
+    {
+        "st_id": "616",
+        "st_title": "Ул. Блюхера",
+        "st_title_en": "Ul. Blyuhera",
+        "st_lat": "54.777225",
+        "st_long": "56.021271",
+		"direction": "в центр"
+    },
+    {
+        "st_id": "375",
+        "st_title": "Ул. Блюхера",
+        "st_title_en": "Ul. Blyuhera",
+        "st_lat": "54.777901",
+        "st_long": "56.02189",
+		"direction": "из центра"
+    }
+]

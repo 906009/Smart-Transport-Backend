@@ -1,0 +1,170 @@
+[
+    {
+		"st_id": "1349",
+		"st_title": "Больница №21",
+		"st_title_en": "Bolnitsa №21",
+		"st_lat": "54.739217",
+		"st_long": "56.018249",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "350",
+		"st_title": "Больница №21",
+		"st_title_en": "Bolnitsa №21",
+		"st_lat": "54.739127",
+		"st_long": "56.018444",
+		"direction": "в центр"
+    },
+	{
+		"st_id": "984",
+		"st_title": "Молодежный бульвар",
+		"st_title_en": "Molodejnyiy bulvar",
+		"st_lat": "54.742576",
+		"st_long": "56.019643",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "351",
+		"st_title": "Молодежный бульвар",
+		"st_title_en": "Molodejnyiy bulvar",
+		"st_lat": "54.743097",
+		"st_long": "56.019847",
+		"direction": "из центра"
+    },
+    {
+		"st_id": "89",
+		"st_title": "Лесопарковая",
+		"st_title_en": "Lesoparkovaya",
+		"st_lat": "54.743162",
+		"st_long": "56.025941",
+		"direction": "из центра"
+    },
+	{
+		"st_id": "983",
+		"st_title": "Лесопарковая",
+		"st_title_en": "Lesoparkovaya",
+		"st_lat": "54.743789",
+		"st_long": "56.026614",
+		"direction": "в центр"
+    },
+    {
+		"st_id": "81",
+		"st_title": "Ул. 50-летия СССР",
+		"st_title_en": "Ul. 50-letiya SSSR",
+		"st_lat": "54.746008",
+		"st_long": "56.025383",
+		"direction": "в стор. Менделеева"
+    },
+    {
+		"st_id": "676",
+		"st_title": "Ул. 50-летия СССР",
+		"st_title_en": "Ul. 50-letiya SSSR",
+		"st_lat": "54.745698",
+		"st_long": "56.026295",
+		"direction": "в стор. пр-та Октября"
+    },
+	{
+		"st_id": "80",
+		"st_title": "Театр \"Нур\"",
+		"st_title_en": "Teatr \"Nur\"",
+		"st_lat": "54.748683",
+		"st_long": "56.021145",
+		"direction": "в стор. Менделеева"
+    },
+    {
+		"st_id": "677",
+		"st_title": "Театр \"Нур\"",
+		"st_title_en": "Teatr \"Nur\"",
+		"st_lat": "54.74877",
+		"st_long": "56.021959",
+		"direction": "в стор. пр-та Октября"
+    },
+	{
+		"st_id": "82",
+		"st_title": "Торговый центр \"Башкортостан\"",
+		"st_title_en": "Torgovyiy tsentr \"Bashkortostan\"",
+		"st_lat": "54.743279",
+		"st_long": "56.028839",
+		"direction": "в стор. Зелёная роща"
+	},
+	{
+		"st_id": "521",
+		"st_title": "Торговый центр \"Башкортостан\"",
+		"st_title_en": "Torgovyiy tsentr \"Bashkortostan\"",
+		"st_lat": "54.744456",
+		"st_long": "56.029744",
+		"direction": "в стор. ТРЦ \"Планета\""
+	},
+    {
+		"st_id": "83",
+		"st_title": "Трамплин",
+		"st_title_en": "Tramplin",
+		"st_lat": "54.739688",
+		"st_long": "56.027833",
+		"direction": "в стор. Зелёная Роща"
+    },
+    {
+		"st_id": "522",
+		"st_title": "Трамплин",
+		"st_title_en": "Tramplin",
+		"st_lat": "54.740082",
+		"st_long": "56.02844",
+		"direction": "в стор. ТРЦ \"Планета\""
+    },
+    {
+		"st_id": "1100",
+		"st_title": "Трамплин (30к)",
+		"st_title_en": "Tramplin (30k)",
+		"st_lat": "54.740265",
+		"st_long": "56.026819",
+		"direction": "в стор. Лесопарковая"
+    },
+    {
+		"st_id": "146",
+		"st_title": "Ипподром Акбузат",
+		"st_title_en": "Ippodrom Akbuzat",
+		"st_lat": "54.749408",
+		"st_long": "56.030853",
+		"direction": "в стор. Зелёная Роща"
+    },
+    {
+		"st_id": "520",
+		"st_title": "Ипподром Акбузат",
+		"st_title_en": "Ippodrom Akbuzat",
+		"st_lat": "54.750267",
+		"st_long": "56.031637",
+		"direction": "в стор. ТРЦ \"Планета\""
+    },
+    {
+		"st_id": "871",
+		"st_title": "Ул. Клавдии Абрамовой",
+		"st_title_en": "Ul. Klavdii Abramovoy",
+		"st_lat": "54.751058",
+		"st_long": "56.029893",
+		"direction": "в стор. Комсомольской"
+    },
+    {
+		"st_id": "203",
+		"st_title": "Ул. Клавдии Абрамовой",
+		"st_title_en": "Ul. Klavdii Abramovoy",
+		"st_lat": "54.751446",
+		"st_long": "56.027933",
+		"direction": "в стор. Ипподром Акбузат"
+    },
+    {
+		"st_id": "171",
+		"st_title": "Октябрьское РУВД",
+		"st_title_en": "Oktyabrskoe RUVD",
+		"st_lat": "54.752432",
+		"st_long": "56.031685",
+		"direction": "в стор. Зелёная Роща"
+    },
+    {
+		"st_id": "202",
+		"st_title": "Ул. Луганская",
+		"st_title_en": "Ul. Luganskaya",
+		"st_lat": "54.752763",
+		"st_long": "56.026921",
+		"direction": "в стор. Комсомольской"
+    }
+]
